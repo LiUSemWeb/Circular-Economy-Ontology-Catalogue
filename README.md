@@ -8,7 +8,7 @@ In this repository, we collect ontologies relevant to the circular economy domai
 
 ## Ontologies
 
-- [AMO (Aditive Manufacturing Ontology)](https://matportal.org/ontologies/AMONTOLOGY)
+- [AMO (Additive Manufacturing Ontology)](https://matportal.org/ontologies/AMONTOLOGY)
 - [BCAO (Building Circularity Assessment Ontology)](https://github.com/linmor-sys/BCAO)
 - [BiOnto (An Ontology for Sustainable Bioeconomy and Bioproducts)](https://zenodo.org/record/5589773#.Y-JngS8w35g)
 - [BONSAI-core (Big Open Network for Sustainability Assessment Information core ontology)](https://github.com/BONSAMURAIS/ontology)
