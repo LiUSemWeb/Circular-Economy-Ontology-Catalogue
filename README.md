@@ -30,7 +30,7 @@ In this repository, we collect ontologies relevant to the circular economy domai
 - [MDO (Materials Design Ontology)](https://w3id.org/mdo/full/1.1/index.html)
 - [MPO (Material Properties Ontology)](https://bimerr.iot.linkeddata.es/def/material-properties/)
 - [MSDL (Manufacturing Service Description Language)](http://industryportal.enit.fr/ontologies/MSDL)
-- [MSO-OFM (Manufacturing System Ontology / Ontologies for manufacturing and logistics)](http://industryportal.enit.fr/ontologies/OFM)
+- [MSO-OFM (Manufacturing System Ontology / Ontologies for manufacturing and logistics)](https://github.com/enegri/OFM)
 - [NMRRVOCAB (Materials Data Vocabulary)](https://matportal.org/ontologies/NMRRVOCAB)
 - [PRONTO (Product Ontology)](http://industryportal.enit.fr/ontologies/PRONTO)
 - [PSS (Product Service System)](http://industryportal.enit.fr/ontologies/PSS)
