@@ -36,7 +36,7 @@ In this repository, we collect ontologies relevant to the circular economy domai
 - [PSS (Product Service System)](http://industryportal.enit.fr/ontologies/PSS)
 - [ROMAIN (Reference Ontology for Industrial Maintenance)](http://industryportal.enit.fr/ontologies/ROMAIN)
 - [SAREF (Smart Appliances REFerence ontology)](https://saref.etsi.org)
-- [SAREF4ENER (an extension of SAREF for the energy domain)](https://saref.etsi.org/saref4envr/v1.1.2/)
+- [SAREF4ENER (an extension of SAREF for the energy domain)](https://saref.etsi.org/saref4ener/v1.1.2/)
 - [SAREF4ENVI (an extension of SAREF for the environment domain)](https://saref.etsi.org/saref4enei/v1.1.2/)
 - [SAREF4INMA (an extension of SAREF for the industry and manufacturing domains)](https://saref.etsi.org/saref4inma/v1.1.2/)
 - [SDGIO (Sustainable Development Goals Interface Ontology)](https://github.com/SDG-InterfaceOntology/sdgio)
