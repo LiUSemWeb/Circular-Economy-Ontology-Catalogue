@@ -52,5 +52,5 @@ In this repository, we collect ontologies relevant to the circular economy domai
 - [MAMBO (Materials And Molecules Basic Ontology)](https://matportal.org/ontologies/MAMBO)
 - [DEB (Devices, Experimental scaffolds and Biomaterials Ontology)](https://matportal.org/ontologies/DEB)
 - [MWO (The MatWerk ontology)](https://matportal.org/ontologies/MWO)
-
+- [CE-Ont (Circular Economy Monitor Ontology)](https://github.com/rusne/ImpactOntology/blob/master/circular-economy-ontology/circular-economy-ontology.owl)
 
