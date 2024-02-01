@@ -32,7 +32,6 @@ In this repository, we collect ontologies relevant to the circular economy domai
 - [MSDL (Manufacturing Service Description Language)](http://industryportal.enit.fr/ontologies/MSDL)
 - [MSO-OFM (Manufacturing System Ontology / Ontologies for manufacturing and logistics)](https://github.com/enegri/OFM)
 - [NMRRVOCAB (Materials Data Vocabulary)](https://matportal.org/ontologies/NMRRVOCAB)
-- [PMDco (Platform MaterialDigital Core Ontology)](https://w3id.org/pmd/co)
 - [PRONTO (Product Ontology)](http://industryportal.enit.fr/ontologies/PRONTO)
 - [PSS (Product Service System)](http://industryportal.enit.fr/ontologies/PSS)
 - [ROMAIN (Reference Ontology for Industrial Maintenance)](http://industryportal.enit.fr/ontologies/ROMAIN)
@@ -46,4 +45,12 @@ In this repository, we collect ontologies relevant to the circular economy domai
 - [UNSPSC (Universal Standard Products and Services Classification)](http://industryportal.enit.fr/ontologies/UNSPSC)
 - [VERONTO (VERsioning ONTOlogy)](http://industryportal.enit.fr/ontologies/VERONTO)
 - [Z-BRE4K](http://industryportal.enit.fr/ontologies/Z-BRE4K)
+- [PMDco (Platform MaterialDigital Core Ontology)](https://w3id.org/pmd/co)
+- [MECH (Materials Mechanics Ontology)](https://matportal.org/ontologies/MECH)
+- [MESO (Material Science and Engineering Ontology)](https://matportal.org/ontologies/MSEO)
+- [MTO (Mechnical Testing Ontology)](https://matportal.org/ontologies/MTO)
+- [MAMBO (Materials And Molecules Basic Ontology)](https://matportal.org/ontologies/MAMBO)
+- [DEB (Devices, Experimental scaffolds and Biomaterials Ontology)](https://matportal.org/ontologies/DEB)
+- [MWO (The MatWerk ontology)](https://matportal.org/ontologies/MWO)
+
 
