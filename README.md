@@ -34,6 +34,7 @@ In this repository, we collect ontologies relevant to the circular economy domai
 - [NMRRVOCAB (Materials Data Vocabulary)](https://matportal.org/ontologies/NMRRVOCAB)
 - [PRONTO (Product Ontology)](http://industryportal.enit.fr/ontologies/PRONTO)
 - [PSS (Product Service System)](http://industryportal.enit.fr/ontologies/PSS)
+- [PTO (Product Types Ontology)](http://www.productontology.org)
 - [ROMAIN (Reference Ontology for Industrial Maintenance)](http://industryportal.enit.fr/ontologies/ROMAIN)
 - [SAREF (Smart Appliances REFerence ontology)](https://saref.etsi.org)
 - [SAREF4ENER (an extension of SAREF for the energy domain)](https://saref.etsi.org/saref4ener/v1.1.2/)
@@ -52,5 +53,4 @@ In this repository, we collect ontologies relevant to the circular economy domai
 - [MAMBO (Materials And Molecules Basic Ontology)](https://matportal.org/ontologies/MAMBO)
 - [DEB (Devices, Experimental scaffolds and Biomaterials Ontology)](https://matportal.org/ontologies/DEB)
 - [MWO (The MatWerk ontology)](https://matportal.org/ontologies/MWO)
-- [CE-Ont (Circular Economy Monitor Ontology)](https://github.com/rusne/ImpactOntology/blob/master/circular-economy-ontology/circular-economy-ontology.owl)
-
+- [DPPO (Digital Product Passport Ontology)](https://w3id.org/dppo/)
