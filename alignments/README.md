@@ -22,7 +22,7 @@ The 6 CE-related ontologies are: BCAO, BiOnto, CAMO, CEO, DPPO and CEON. Therefo
 For the sustainability domain, we have 5 ontologies which are BONSAIcore, ENVO, SAREF4ENVR, SAREF4ENVI, SDGIO.
 |      | BONSAIcore | ENVO | SAREF4ENVR | SAREF4ENVI | SDGIO |
 |------|------------|------|------------|------------|-------|
-| CEON |            |      |            |            |       |
+| CEON |[:heavy_check_mark:](./task_b/CEON-SU/CEON-BONSAIcore/)|[:heavy_check_mark:](./task_b/CEON-SU/CEON-ENVO/)|[:heavy_check_mark:](./task_b/CEON-SU/CEON-SAREF4ENVR/)|[:heavy_check_mark:](./task_b/CEON-SU/CEON-SAREF4ENVI/)|[:heavy_check_mark:](./task_b/CEON-SU/CEON-SDGIO/)|
 ##### Materials Doamin
 For the materials domain, we have  13 ontologies which are AMO, BUILDMAT, BWMDDomain, IOFcore, MATONTO, MDO, MPO, NMRVOCAB, PMDco, MECH, MSEO, MTO, MAMBO.
 |      | AMO | BUILDMAT | BWMDDomain | IOFcore | MATONTO | MDO | MPO | NMRVOCAB | PMDco | MECH | MSEO | MTO | MAMBO |
