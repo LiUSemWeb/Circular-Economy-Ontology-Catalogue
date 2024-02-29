@@ -11,11 +11,11 @@ The 6 CE-related ontologies are: BCAO, BiOnto, CAMO, CEO, DPPO and CEON. Therefo
 
 |        | BCAO | BiOnto | CAMO | CEO | DPPO | CEON |
 |--------|------|--------|------|-----|------|------|
-| BCAO   |   [:white_check_mark:]()   | [:heavy_check_mark:](./task_a/BCAO-BiOnto/)       |      |     |      |      |
-| BiOnto |      |        |      |     |      |      |
-| CAMO   |      |        |      |     |      |      |
-| CEO    |      |        |      |     |      |      |
-| DPPO   |      |        |      |     |      |      |
+| BCAO   |      | [:heavy_check_mark:](./task_a/BCAO-BiOnto/)|[:heavy_check_mark:](./task_a/BCAO-CAMO/)|[:heavy_check_mark:](./task_a/BCAO-CEO/)|[:heavy_check_mark:](./task_a/BCAO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-BCAO/)|
+| BiOnto |      |        |[:heavy_check_mark:](./task_a/BiOnto-CAMO/)|[:heavy_check_mark:](./task_a/BiOnto-CEO/)|[:heavy_check_mark:](./task_a/BiOnto-DPPO/)|[:heavy_check_mark:](./task_a/CEON-BiOnto/)|
+| CAMO   |      |        |      |[:heavy_check_mark:](./task_a/CAMO-CEO/)|[:heavy_check_mark:](./task_a/CAMO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-CAMO/)|
+| CEO    |      |        |      |     |[:heavy_check_mark:](./task_a/CEO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-CEO/)|
+| DPPO   |      |        |      |     |      |[:heavy_check_mark:](./task_a/CEON-DPPO/)|
 | CEON   |      |        |      |     |      |      |
 
 #### Task b: CEON-IndusDom
