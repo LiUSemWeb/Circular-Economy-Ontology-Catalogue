@@ -16,7 +16,6 @@ The 6 CE-related ontologies are: BCAO, BiOnto, CAMO, CEO, DPPO and CEON. Therefo
 | CAMO   |      |        |      |[:heavy_check_mark:](./task_a/CAMO-CEO/)|[:heavy_check_mark:](./task_a/CAMO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-CAMO/)|
 | CEO    |      |        |      |     |[:heavy_check_mark:](./task_a/CEO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-CEO/)|
 | DPPO   |      |        |      |     |      |[:heavy_check_mark:](./task_a/CEON-DPPO/)|
-| CEON   |      |        |      |     |      |      |
 
 #### Task b: CEON-IndusDom
 ##### Sustainability Domain
