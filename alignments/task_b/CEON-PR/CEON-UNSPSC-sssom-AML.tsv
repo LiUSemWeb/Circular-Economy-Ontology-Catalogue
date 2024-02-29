@@ -1,0 +1,4 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/resourceODP/Resource;http://w3id.org/CEON/ontology/full/0.1;/Users/huali50/Documents/project/Onto-Deside/input_ontologies/35-UNSPSC.owl;;http://www.w3.org/2000/01/rdf-schema#Resource;Resource;Resource;0.9801;AML;=;
+http://w3id.org/CEON/ontology/resourceODP/Information;http://w3id.org/CEON/ontology/full/0.1;/Users/huali50/Documents/project/Onto-Deside/input_ontologies/35-UNSPSC.owl;;file:/srv/ontoportal/data/repository/UNSPSC/1/unspsc84-title.rdfs#Information_services;Information;Information_services;0.7051;AML;=;
+http://www.w3.org/ns/prov#Generation;http://w3id.org/CEON/ontology/full/0.1;/Users/huali50/Documents/project/Onto-Deside/input_ontologies/35-UNSPSC.owl;;file:/srv/ontoportal/data/repository/UNSPSC/1/unspsc84-title.rdfs#Power_generation;Generation;Power_generation;0.6068;AML;=;

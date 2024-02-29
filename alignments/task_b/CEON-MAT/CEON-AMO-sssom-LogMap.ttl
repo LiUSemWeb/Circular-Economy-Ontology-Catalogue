@@ -1,0 +1,17 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-AMO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 5e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://siam.nist.gov/AM-Ontology_v2#Material> ;
+    sssom:object_label "Material" ;
+    sssom:object_source <http://w3id.org/CEON/ontology/full/0.1> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/material/Material> ;
+    sssom:subject_label "Material" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

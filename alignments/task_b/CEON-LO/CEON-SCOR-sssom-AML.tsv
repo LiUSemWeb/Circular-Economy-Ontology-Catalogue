@@ -1,0 +1,9 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://www.w3.org/ns/prov#Person;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor#;;http://schema.org/Person;Person;Person;0.99;AML;=;
+http://www.w3.org/ns/prov#Plan;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor#;;http://purl.org/eis/vocab/scor#Plan;Plan;Plan;0.9801;AML;=;
+http://w3id.org/CEON/ontology/processODP/Process;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor#;;http://purl.org/eis/vocab/scor#Process;Process;Process;0.9801;AML;=;
+http://w3id.org/CEON/ontology/actor/ActorProcessRole;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor#;;http://purl.org/eis/vocab/scor#SourceReturnStep;ActorProcessRole;SourceReturnStep;0.6;AML;=;
+http://w3id.org/CEON/ontology/cvn/CVN;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor#;;http://purl.org/eis/vocab/scor#SSPScheduleProductDeliveries;CVN;SSPScheduleProductDeliveries;0.6;AML;=;
+http://w3id.org/CEON/ontology/process/ChangeResourceProcess;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor#;;http://purl.org/eis/vocab/scor#TransferExcessProduct;ChangeResourceProcess;TransferExcessProduct;0.6;AML;=;
+http://w3id.org/CEON/ontology/actor/ActorResourceRole;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor#;;http://purl.org/eis/vocab/scor#SEOPScheduleProductDeliveries;ActorResourceRole;SEOPScheduleProductDeliveries;0.6;AML;=;
+http://w3id.org/CEON/ontology/process/RemoveResourceProcess;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor#;;http://purl.org/eis/vocab/scor#TakeAssetOffline;RemoveResourceProcess;TakeAssetOffline;0.6;AML;=;

@@ -1,0 +1,11 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/process/AssemblingProcess;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;https://w3id.org/pmd/co/AssemblingProcess;AssemblingProcess;AssemblingProcess;0.9847;AML;=;
+http://w3id.org/CEON/ontology/process/ManufacturingProcess;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;https://w3id.org/pmd/co/ManufacturingProcess;ManufacturingProcess;ManufacturingProcess;0.9801;AML;=;
+http://w3id.org/CEON/ontology/processODP/Process;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;https://w3id.org/pmd/co/Process;Process;Process;0.9801;AML;=;
+http://w3id.org/CEON/ontology/material/Material;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;https://w3id.org/pmd/co/MaterialStructure;Material;MaterialStructure;0.9669;AML;=;
+http://w3id.org/CEON/ontology/material/ChemicalEntity;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;http://purl.obolibrary.org/obo/CHEBI_24431;ChemicalEntity;CHEBI_24431;0.9618;AML;=;
+http://w3id.org/CEON/ontology/cvn/CircularStrategy;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;https://w3id.org/pmd/co/Circular;CircularStrategy;Circular;0.6147;AML;=;
+http://w3id.org/CEON/ontology/process/Process;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;https://w3id.org/pmd/co/ProcessingNode;Process;ProcessingNode;0.613;AML;=;
+http://w3id.org/CEON/ontology/value/Value;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;https://w3id.org/pmd/co/ValueScope;Value;ValueScope;0.6077;AML;=;
+http://w3id.org/CEON/ontology/material/ChemicalSubstance;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;https://w3id.org/pmd/co/Chemical;ChemicalSubstance;Chemical;0.6031;AML;=;
+http://w3id.org/CEON/ontology/product/ProductObject;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/pmd/co;;https://w3id.org/pmd/co/Project;ProductObject;Project;0.6011;AML;=;

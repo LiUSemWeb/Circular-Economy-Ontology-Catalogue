@@ -1,0 +1,11 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/full/0.1#Entity;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/Entity;Entity;Entity;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Role;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/Role;Role;Role;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Process;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/Process;Process;Process;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Agent;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/Agent;Agent;Agent;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Activity;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/Activity;Activity;Activity;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Location;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/Location;Location;Location;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#AssemblingProcess;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/AssemblingProcess;AssemblingProcess;AssemblingProcess;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#ManufacturingProcess;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/ManufacturingProcess;ManufacturingProcess;ManufacturingProcess;0.942;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Organization;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/Organization;Organization;Organization;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Person;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org pmd co;;https://w3id.org/pmd/co/Person;Person;Person;1.0;AMD;=;

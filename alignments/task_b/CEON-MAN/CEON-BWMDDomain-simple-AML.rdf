@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>http://w3id.org/CEON/ontology/full/0.1</onto1>
+	<onto2>/Users/huali50/Documents/project/Onto-Deside/input_ontologies/7-BWMD-DOMAIN.owl</onto2>
+	<uri1>http://w3id.org/CEON/ontology/full/0.1</uri1>
+	<uri2>/Users/huali50/Documents/project/Onto-Deside/input_ontologies/7-BWMD-DOMAIN.owl</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9643</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+			<entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00086"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9562</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.w3.org/ns/prov#Person"/>
+			<entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00004"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9472</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/ProcessExecution"/>
+			<entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/domain#BWMD_00460"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9411</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Process"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+			<entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00120"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8751</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ManufacturingProcess"/>
+			<entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00117"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6866</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Transformation"/>
+			<entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00064"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6317</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

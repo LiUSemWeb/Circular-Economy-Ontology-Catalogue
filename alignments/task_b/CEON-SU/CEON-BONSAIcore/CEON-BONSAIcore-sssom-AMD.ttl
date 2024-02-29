@@ -1,0 +1,43 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-BONSAIcore-mapping-0 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AMD" ;
+    sssom:object_id <http://ontology.bonsai.uno/core#Agent> ;
+    sssom:object_label "Agent" ;
+    sssom:object_source <http://ontology.bonsai.uno/core> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/full/0.1#Agent> ;
+    sssom:subject_label "Agent" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-BONSAIcore-mapping-1 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AMD" ;
+    sssom:object_id <http://ontology.bonsai.uno/core#Activity> ;
+    sssom:object_label "Activity" ;
+    sssom:object_source <http://ontology.bonsai.uno/core> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/full/0.1#Activity> ;
+    sssom:subject_label "Activity" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-BONSAIcore-mapping-2 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AMD" ;
+    sssom:object_id <http://ontology.bonsai.uno/core#location> ;
+    sssom:object_label "location" ;
+    sssom:object_source <http://ontology.bonsai.uno/core> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/full/0.1#Location> ;
+    sssom:subject_label "Location" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

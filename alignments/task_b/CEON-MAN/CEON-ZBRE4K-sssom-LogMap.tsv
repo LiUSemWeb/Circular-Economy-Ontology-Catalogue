@@ -1,0 +1,2 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://www.w3.org/ns/prov#Role;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.Z-bre4k.org/ontology#3_2;Role;3_2;0.51;LogMap;=;

@@ -1,0 +1,3 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/resourceODP/Composition;http://w3id.org/CEON/ontology/full/0.1;http://192.168.1.4/vocab/;;http://192.168.1.4/vocab/?tema=102;Composition;;0.9306;AML;=;
+http://w3id.org/CEON/ontology/processODP/ProcessType;http://w3id.org/CEON/ontology/full/0.1;http://192.168.1.4/vocab/;;http://192.168.1.4/vocab/?tema=899;ProcessType;;0.643;AML;=;

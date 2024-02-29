@@ -1,0 +1,17 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-VERONTO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AMD" ;
+    sssom:object_id <https://ontohub.org/veronto/veronto_v04-18.owl#Activity> ;
+    sssom:object_label "Activity" ;
+    sssom:object_source <https://ontohub.org/veronto/veronto_v04-18.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/full/0.1#Activity> ;
+    sssom:subject_label "Activity" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

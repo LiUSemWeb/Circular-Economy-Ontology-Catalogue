@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://w3id.org/CEON/ontology/full/0.1</onto1>
+	<onto2>https://saref.etsi.org/saref4inma/</onto2>
+	<uri1>http://w3id.org/CEON/ontology/full/0.1</uri1>
+	<uri2>https://saref.etsi.org/saref4inma/</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/PhysicalObject"/>
+			<entity2 rdf:resource="https://saref.etsi.org/saref4bldg/PhysicalObject"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9839</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/product/ProductObject"/>
+			<entity2 rdf:resource="https://saref.etsi.org/saref4inma/WorkCenter"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7841</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ProductionProcess"/>
+			<entity2 rdf:resource="https://saref.etsi.org/saref4inma/ProductionEquipment"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7351</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ActorProcessRole"/>
+			<entity2 rdf:resource="https://saref.etsi.org/saref4inma/ProductionEquipmentCategory"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ActorResourceRole"/>
+			<entity2 rdf:resource="https://saref.etsi.org/saref4inma/ProductionEquipmentFunction"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

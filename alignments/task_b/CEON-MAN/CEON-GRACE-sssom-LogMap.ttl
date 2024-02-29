@@ -1,0 +1,44 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-GRACE-mapping-0 a sssom:Mapping ;
+    sssom:condifence 7e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://www.grace-ontology.com#Material> ;
+    sssom:object_label "Material" ;
+    sssom:object_source <http://w3id.org/CEON/ontology/full/0.1> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/material/Material> ;
+    sssom:subject_label "Material" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-GRACE-mapping-1 a sssom:Mapping ;
+    sssom:condifence 4e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://www.grace-ontology.com#ProcessPlan> ;
+    sssom:object_label "ProcessPlan" ;
+    sssom:object_source <http://w3id.org/CEON/ontology/full/0.1> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id prov:Plan ;
+    sssom:subject_label "Plan" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-GRACE-mapping-2 a sssom:Mapping ;
+    sssom:condifence 7e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://www.grace-ontology.com#Product> ;
+    sssom:object_label "Product" ;
+    sssom:object_source <http://w3id.org/CEON/ontology/full/0.1> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/product/Product> ;
+    sssom:subject_label "Product" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

@@ -1,0 +1,7 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://www.w3.org/ns/prov#Location;http://w3id.org/CEON/ontology/full/0.1;http://www.ontologies.com/Ontology3197.owl;;http://www.ontologies.com/Ontology3197.owl#Location;Location;Location;0.99;AML;=;
+http://w3id.org/CEON/ontology/product/Product;http://w3id.org/CEON/ontology/full/0.1;http://www.ontologies.com/Ontology3197.owl;;http://www.ontologies.com/Ontology3197.owl#Product;Product;Product;0.9801;AML;=;
+http://w3id.org/CEON/ontology/product/ProductObject;http://w3id.org/CEON/ontology/full/0.1;http://www.ontologies.com/Ontology3197.owl;;http://www.ontologies.com/Ontology3197.owl#VIS_Object;ProductObject;VIS_Object;0.7351;AML;=;
+http://w3id.org/CEON/ontology/actor/ProcessParticipation;http://w3id.org/CEON/ontology/full/0.1;http://www.ontologies.com/Ontology3197.owl;;http://www.ontologies.com/Ontology3197.owl#Process_Operator;ProcessParticipation;Process_Operator;0.7351;AML;=;
+http://w3id.org/CEON/ontology/process/Process;http://w3id.org/CEON/ontology/full/0.1;http://www.ontologies.com/Ontology3197.owl;;http://www.ontologies.com/Ontology3197.owl#Processor;Process;Processor;0.7253;AML;=;
+http://w3id.org/CEON/ontology/process/ServiceProcess;http://w3id.org/CEON/ontology/full/0.1;http://www.ontologies.com/Ontology3197.owl;;http://www.ontologies.com/Ontology3197.owl#Service;ServiceProcess;Service;0.719;AML;=;

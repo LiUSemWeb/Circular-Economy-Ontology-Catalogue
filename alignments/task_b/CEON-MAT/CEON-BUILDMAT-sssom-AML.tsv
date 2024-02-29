@@ -1,0 +1,4 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/resourceODP/Constituent;http://w3id.org/CEON/ontology/full/0.1;/Users/huali50/Documents/project/Onto-Deside/input_ontologies/6-BUILDMAT.owl;;https://w3id.org/digitalconstruction/BuildingMaterials#Constituent;Constituent;Constituent;0.99;AML;=;
+http://w3id.org/CEON/ontology/material/Material;http://w3id.org/CEON/ontology/full/0.1;/Users/huali50/Documents/project/Onto-Deside/input_ontologies/6-BUILDMAT.owl;;https://w3id.org/digitalconstruction/BuildingMaterials#Material;Material;Material;0.9801;AML;=;
+http://w3id.org/CEON/ontology/processODP/ProcessType;http://w3id.org/CEON/ontology/full/0.1;/Users/huali50/Documents/project/Onto-Deside/input_ontologies/6-BUILDMAT.owl;;https://w3id.org/digitalconstruction/BuildingMaterials#MaterialType;ProcessType;MaterialType;0.7351;AML;=;

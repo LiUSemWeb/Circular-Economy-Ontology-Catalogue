@@ -1,0 +1,5 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/material/Material;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/mdo/full/;;https://w3id.org/mdo/core/Material;Material;Material;0.9852;AML;=;
+http://w3id.org/CEON/ontology/resourceODP/Composition;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/mdo/full/;;https://w3id.org/mdo/structure/Composition;Composition;Composition;0.9801;AML;=;
+http://w3id.org/CEON/ontology/resourceODP/PhysicalObject;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/mdo/full/;;https://w3id.org/mdo/core/PhysicalProperty;PhysicalObject;PhysicalProperty;0.8821;AML;=;
+http://w3id.org/CEON/ontology/product/Product;http://w3id.org/CEON/ontology/full/0.1;https://w3id.org/mdo/full/;;http://qudt.org/schema/qudt/QuantityKind;Product;QuantityKind;0.7445;AML;=;

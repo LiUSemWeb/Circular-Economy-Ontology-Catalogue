@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>http://w3id.org/CEON/ontology/full/0.1</onto1>
+	<onto2>/Users/huali50/Documents/project/Onto-Deside/input_ontologies/22-MSDL.owl</onto2>
+	<uri1>http://w3id.org/CEON/ontology/full/0.1</uri1>
+	<uri2>/Users/huali50/Documents/project/Onto-Deside/input_ontologies/22-MSDL.owl</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.w3.org/ns/prov#Organization"/>
+			<entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000007"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9643</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+			<entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000003"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.946</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Capability"/>
+			<entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000009"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+			<entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000034"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Process"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/PhysicalObject"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001241"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6925</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ServiceProcess"/>
+			<entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000094"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6781</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.w3.org/ns/prov#Communication"/>
+			<entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0001057"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6195</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

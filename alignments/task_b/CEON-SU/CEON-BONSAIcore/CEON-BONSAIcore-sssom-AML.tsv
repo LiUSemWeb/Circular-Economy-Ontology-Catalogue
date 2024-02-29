@@ -1,0 +1,5 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://www.w3.org/ns/prov#Location;http://w3id.org/CEON/ontology/full/0.1;http://ontology.bonsai.uno/core;;http://schema.org/location;Location;location;0.99;AML;=;
+http://www.w3.org/ns/prov#Activity;http://w3id.org/CEON/ontology/full/0.1;http://ontology.bonsai.uno/core;;http://ontology.bonsai.uno/core#Activity;Activity;Activity;0.9865;AML;=;
+http://www.w3.org/ns/prov#Agent;http://w3id.org/CEON/ontology/full/0.1;http://ontology.bonsai.uno/core;;http://ontology.bonsai.uno/core#Agent;Agent;Agent;0.9801;AML;=;
+http://w3id.org/CEON/ontology/processODP/ProcessType;http://w3id.org/CEON/ontology/full/0.1;http://ontology.bonsai.uno/core;;http://ontology.bonsai.uno/core#ActivityType;ProcessType;ActivityType;0.8821;AML;=;

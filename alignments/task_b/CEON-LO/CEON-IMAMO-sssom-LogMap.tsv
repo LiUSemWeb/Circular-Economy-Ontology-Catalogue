@@ -1,0 +1,9 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/actor/UsingResource;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Resource;UsingResource;Resource;0.72;LogMap;=;
+http://w3id.org/CEON/ontology/actorODP/Actor;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Actor;Actor;Actor;0.7;LogMap;=;
+http://w3id.org/CEON/ontology/resourceODP/Matter;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Matter;Matter;Matter;0.5;LogMap;=;
+http://w3id.org/CEON/ontology/process/Energy;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Energy;Energy;Energy;0.5;LogMap;=;
+http://w3id.org/CEON/ontology/processODP/Process;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Process;Process;Process;0.77;LogMap;=;
+http://w3id.org/CEON/ontology/process/Process;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Process;Process;Process;0.51;LogMap;=;
+http://www.w3.org/ns/prov#Activity;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Activity;Activity;Activity;0.7;LogMap;=;
+http://www.w3.org/ns/prov#Role;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Role;Role;Role;0.7;LogMap;=;

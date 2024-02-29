@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://w3id.org/CEON/ontology/full/0.1</onto1>
+<onto2>http://w3id.org/CEON/ontology/full/0.1</onto2>
+<uri1>http://w3id.org/CEON/ontology/full/0.1</uri1>
+<uri2>http://w3id.org/CEON/ontology/full/0.1</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#Agent"/>
+		<entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Agent"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#Person"/>
+		<entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Person"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+		<entity2 rdf:resource="https://gitlab.com/kupferdigital/ontologies/Mechanical_Testing_Ontology/Energy"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/MaterialComponent"/>
+		<entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/MaterialComponent"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Capability"/>
+		<entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Capability"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ManufacturingProcess"/>
+		<entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/ManufacturingProcess"/>
+		<measure rdf:datatype="xsd:float">0.65</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ManufacturingProcess"/>
+		<entity2 rdf:resource="https://github.com/iofoundry/Core/ManufacturingProcess"/>
+		<measure rdf:datatype="xsd:float">0.87</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+		<entity2 rdf:resource="http://purl.obolibrary.org/obo/has_part"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

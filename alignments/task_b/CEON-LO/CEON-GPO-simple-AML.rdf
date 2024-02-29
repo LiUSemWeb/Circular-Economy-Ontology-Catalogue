@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://w3id.org/CEON/ontology/full/0.1</onto1>
+	<onto2>https://gitlab.cc-asp.fraunhofer.de/ISC-Public/ISC-Digital/ontology/GPO</onto2>
+	<uri1>http://w3id.org/CEON/ontology/full/0.1</uri1>
+	<uri2>https://gitlab.cc-asp.fraunhofer.de/ISC-Public/ISC-Digital/ontology/GPO</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+			<entity2 rdf:resource="https://gitlab.cc-asp.fraunhofer.de/ISC-Public/ISC-Digital/ontology/GPO#GPO_1880a2e6_0c9f_425a_9615_d4bdf121215f"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+			<entity2 rdf:resource="https://gitlab.cc-asp.fraunhofer.de/ISC-Public/ISC-Digital/ontology/GPO#GPO_995475ba_f196_4b19_a7c7_38d032c59270"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Information"/>
+			<entity2 rdf:resource="https://gitlab.cc-asp.fraunhofer.de/ISC-Public/ISC-Digital/ontology/GPO#GPO_a7003b69_ce78_48fe_a717_e04e1266c6cd"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.w3.org/ns/prov#Location"/>
+			<entity2 rdf:resource="https://gitlab.cc-asp.fraunhofer.de/ISC-Public/ISC-Digital/ontology/GPO#GPO_2be9b8b9_5ec8_46f3_89d6_3692c310553e"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/ChemicalEntity"/>
+			<entity2 rdf:resource="https://gitlab.cc-asp.fraunhofer.de/ISC-Public/ISC-Digital/ontology/GPO#GPO_aa602472_ba16_4375_b8b3_868f84324ec7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6979</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

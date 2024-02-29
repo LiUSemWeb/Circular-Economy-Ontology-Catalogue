@@ -1,0 +1,4 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/full/0.1#Process;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor;;http://purl.org/eis/vocab/scor#Process;Process;Process;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Plan;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor;;http://purl.org/eis/vocab/scor#Plan;Plan;Plan;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Person;http://w3id.org/CEON/ontology/full/0.1;http://purl.org/eis/vocab/scor;;http://purl.org/eis/vocab/scor#Person;Person;Person;1.0;AMD;=;

@@ -1,0 +1,6 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/process/ServiceProcess;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.composition-project.eu/ontologies/MSDL#Service;ServiceProcess;Service;0.51;LogMap;=;
+http://w3id.org/CEON/ontology/material/Material;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.composition-project/ontologies/COMPOSITIONv01#Materials;Material;Materials;0.5;LogMap;=;
+http://w3id.org/CEON/ontology/actorODP/Capability;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.composition-project.eu/ontologies/MSDL#Capability;Capability;Capability;0.7;LogMap;=;
+http://www.w3.org/ns/prov#Location;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://purl.org/goodrelations/v1#Location;Location;Location;0.7;LogMap;=;
+http://www.w3.org/ns/prov#Entity;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.owl-ontologies.com/mason.owl#Entity;Entity;Entity;0.7;LogMap;=;

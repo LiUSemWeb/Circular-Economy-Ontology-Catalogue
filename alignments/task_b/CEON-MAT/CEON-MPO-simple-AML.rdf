@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://w3id.org/CEON/ontology/full/0.1</onto1>
+	<onto2>http://bimerr.iot.linkeddata.es/def/material-properties#</onto2>
+	<uri1>http://w3id.org/CEON/ontology/full/0.1</uri1>
+	<uri2>http://bimerr.iot.linkeddata.es/def/material-properties#</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+			<entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#Material"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/TakeBackProcess"/>
+			<entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#FilmProtectionMaterial"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6861</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Constituent"/>
+			<entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#MaterialConstituent"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6701</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ActorProcessRole"/>
+			<entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#FibreCementBoard"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

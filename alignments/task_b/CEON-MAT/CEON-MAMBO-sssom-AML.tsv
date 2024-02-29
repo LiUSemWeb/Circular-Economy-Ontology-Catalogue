@@ -1,0 +1,4 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/material/Material;http://w3id.org/CEON/ontology/full/0.1;file:/home/fabio/Projects/MAMBO/mambo.owl;;file:/home/fabio/Projects/MAMBO/mambo.owl#Material;Material;Material;0.9852;AML;=;
+http://w3id.org/CEON/ontology/processODP/Process;http://w3id.org/CEON/ontology/full/0.1;file:/home/fabio/Projects/MAMBO/mambo.owl;;http://purl.obolibrary.org/obo/BFO_0000015;Process;BFO_0000015;0.9306;AML;=;
+http://w3id.org/CEON/ontology/product/ProductObject;http://w3id.org/CEON/ontology/full/0.1;file:/home/fabio/Projects/MAMBO/mambo.owl;;file:/home/fabio/Projects/MAMBO/mambo.owl#ChemicalProperty;ProductObject;ChemicalProperty;0.7841;AML;=;

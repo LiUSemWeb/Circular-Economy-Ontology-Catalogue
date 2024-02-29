@@ -1,0 +1,17 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-ZBRE4K-mapping-0 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AMD" ;
+    sssom:object_id <target.owl#3_2> ;
+    sssom:object_label "3_2" ;
+    sssom:object_source <://target.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/full/0.1#Role> ;
+    sssom:subject_label "Role" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

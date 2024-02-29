@@ -1,0 +1,6 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://www.w3.org/ns/prov#Entity;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://w3id.org/bpo#Entity;Entity;Entity;0.5;LogMap;=;
+http://www.w3.org/ns/prov#Attribution;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://w3id.org/bpo#Attribute;Attribution;Attribute;0.5;LogMap;=;
+http://www.w3.org/ns/prov#Person;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://xmlns.com/foaf/0.1/Person;Person;Person;0.7;LogMap;=;
+http://w3id.org/CEON/ontology/product/Product;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://schema.org/ProductModel;Product;ProductModel;0.51;LogMap;=;
+http://w3id.org/CEON/ontology/product/Product;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://w3id.org/bpo#Product;Product;Product;0.7;LogMap;=;

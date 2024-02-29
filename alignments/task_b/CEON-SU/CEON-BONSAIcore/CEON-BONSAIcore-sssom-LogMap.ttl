@@ -1,0 +1,44 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-BONSAIcore-mapping-0 a sssom:Mapping ;
+    sssom:condifence 7e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://schema.org/location> ;
+    sssom:object_label "location" ;
+    sssom:object_source <http://w3id.org/CEON/ontology/full/0.1> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id prov:Location ;
+    sssom:subject_label "Location" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-BONSAIcore-mapping-1 a sssom:Mapping ;
+    sssom:condifence 5e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://ontology.bonsai.uno/core#Agent> ;
+    sssom:object_label "Agent" ;
+    sssom:object_source <http://w3id.org/CEON/ontology/full/0.1> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id prov:Agent ;
+    sssom:subject_label "Agent" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-BONSAIcore-mapping-2 a sssom:Mapping ;
+    sssom:condifence 7e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://ontology.bonsai.uno/core#Activity> ;
+    sssom:object_label "Activity" ;
+    sssom:object_source <http://w3id.org/CEON/ontology/full/0.1> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id prov:Activity ;
+    sssom:subject_label "Activity" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

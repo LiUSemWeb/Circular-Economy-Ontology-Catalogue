@@ -1,0 +1,2 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/full/0.1#Material;http://w3id.org/CEON/ontology/full/0.1;http://bimerr.iot.linkeddata.es/def/material-properties;;http://bimerr.iot.linkeddata.es/def/material-properties#Material;Material;Material;1.0;AMD;=;

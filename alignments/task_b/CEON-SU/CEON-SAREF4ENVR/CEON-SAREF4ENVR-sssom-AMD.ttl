@@ -1,0 +1,17 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-SAREF4ENVR-mapping-0 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AMD" ;
+    sssom:object_id <target.owl#Energy> ;
+    sssom:object_label "Energy" ;
+    sssom:object_source <://target.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/full/0.1#Energy> ;
+    sssom:subject_label "Energy" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

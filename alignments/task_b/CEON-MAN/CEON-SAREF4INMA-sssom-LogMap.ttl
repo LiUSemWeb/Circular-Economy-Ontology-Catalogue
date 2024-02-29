@@ -1,0 +1,30 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-SAREF4INMA-mapping-0 a sssom:Mapping ;
+    sssom:condifence 7e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <https://saref.etsi.org/core/State> ;
+    sssom:object_label "State" ;
+    sssom:object_source <http://w3id.org/CEON/ontology/full/0.1> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/provenance/Statement> ;
+    sssom:subject_label "Statement" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-SAREF4INMA-mapping-1 a sssom:Mapping ;
+    sssom:condifence 6e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <https://saref.etsi.org/saref4bldg/PhysicalObject> ;
+    sssom:object_label "PhysicalObject" ;
+    sssom:object_source <http://w3id.org/CEON/ontology/full/0.1> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/resourceODP/PhysicalObject> ;
+    sssom:subject_label "PhysicalObject" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

@@ -1,0 +1,10 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://www.w3.org/ns/prov#Entity;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://purl.obolibrary.org/obo/BFO_0000001;Entity;BFO_0000001;0.74;LogMap;=;
+http://w3id.org/CEON/ontology/processODP/ProcessExecution;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/domain#BWMD_00460;ProcessExecution;BWMD_00460;0.7;LogMap;=;
+http://www.w3.org/ns/prov#Person;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00004;Person;BWMD_00004;0.5;LogMap;=;
+http://w3id.org/CEON/ontology/process/Energy;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00086;Energy;BWMD_00086;0.79;LogMap;=;
+http://w3id.org/CEON/ontology/processODP/Process;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://purl.obolibrary.org/obo/BFO_0000015;Process;BFO_0000015;0.76;LogMap;=;
+http://w3id.org/CEON/ontology/resourceODP/SetOfObjects;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00073;SetOfObjects;BWMD_00073;0.75;LogMap;=;
+http://w3id.org/CEON/ontology/process/Process;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://purl.obolibrary.org/obo/BFO_0000015;Process;BFO_0000015;0.51;LogMap;=;
+http://www.w3.org/ns/prov#Plan;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00242;Plan;BWMD_00242;0.49;LogMap;=;
+http://www.w3.org/ns/prov#Role;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://purl.obolibrary.org/obo/BFO_0000023;Role;BFO_0000023;0.7;LogMap;=;

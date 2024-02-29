@@ -1,0 +1,5 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/full/0.1#Capability;http://w3id.org/CEON/ontology/full/0.1;https://purl.industrialontologies.org ontology core Core;;https://purl.industrialontologies.org/ontology/core/Core/Capability;Capability;Capability;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Agent;http://w3id.org/CEON/ontology/full/0.1;https://purl.industrialontologies.org ontology core Core;;https://purl.industrialontologies.org/ontology/core/Core/Agent;Agent;Agent;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#ManufacturingProcess;http://w3id.org/CEON/ontology/full/0.1;https://purl.industrialontologies.org ontology core Core;;https://purl.industrialontologies.org/ontology/core/Core/ManufacturingProcess;ManufacturingProcess;ManufacturingProcess;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Person;http://w3id.org/CEON/ontology/full/0.1;https://purl.industrialontologies.org ontology core Core;;https://purl.industrialontologies.org/ontology/core/Core/Person;Person;Person;1.0;AMD;=;

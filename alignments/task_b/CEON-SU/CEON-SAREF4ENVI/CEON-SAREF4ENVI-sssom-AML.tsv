@@ -1,0 +1,3 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/resourceODP/PhysicalObject;http://w3id.org/CEON/ontology/full/0.1;/Users/huali50/Documents/project/Onto-Deside/input_ontologies/30-SAREF4ENVI.owl;;https://saref.etsi.org/saref4envi/PhysicalObject;PhysicalObject;PhysicalObject;0.9839;AML;=;
+http://w3id.org/CEON/ontology/process/ServiceProcess;http://w3id.org/CEON/ontology/full/0.1;/Users/huali50/Documents/project/Onto-Deside/input_ontologies/30-SAREF4ENVI.owl;;https://saref.etsi.org/core/Service;ServiceProcess;Service;0.719;AML;=;

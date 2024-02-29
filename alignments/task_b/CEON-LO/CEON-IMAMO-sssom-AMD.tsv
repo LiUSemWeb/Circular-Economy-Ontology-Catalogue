@@ -1,0 +1,8 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/full/0.1#Actor;http://w3id.org/CEON/ontology/full/0.1;://target.owl;;target.owl#Actor;Actor;Actor;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Resource;http://w3id.org/CEON/ontology/full/0.1;://target.owl;;target.owl#Resource;Resource;Resource;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Role;http://w3id.org/CEON/ontology/full/0.1;://target.owl;;target.owl#Role;Role;Role;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Process;http://w3id.org/CEON/ontology/full/0.1;://target.owl;;target.owl#Process;Process;Process;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Energy;http://w3id.org/CEON/ontology/full/0.1;://target.owl;;target.owl#Energy;Energy;Energy;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Matter;http://w3id.org/CEON/ontology/full/0.1;://target.owl;;target.owl#Matter;Matter;Matter;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Activity;http://w3id.org/CEON/ontology/full/0.1;://target.owl;;target.owl#Activity;Activity;Activity;1.0;AMD;=;

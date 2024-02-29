@@ -1,0 +1,43 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-PRONTO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://www.semanticweb.org/ontologies/2010/1/ProntoAHSH.owl#Product> ;
+    sssom:object_label "Product" ;
+    sssom:object_source <http://purl.org/net/pronto/Pronto.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/product/Product> ;
+    sssom:subject_label "Product" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-PRONTO-mapping-1 a sssom:Mapping ;
+    sssom:condifence 7.841e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://www.semanticweb.org/ontologies/2010/1/ProntoAHSH.owl#ProductAbstraction> ;
+    sssom:object_label "ProductAbstraction" ;
+    sssom:object_source <http://purl.org/net/pronto/Pronto.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/material/ChemicalEntity> ;
+    sssom:subject_label "ChemicalEntity" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-PRONTO-mapping-2 a sssom:Mapping ;
+    sssom:condifence 6.679e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://www.semanticweb.org/ontologies/2010/1/ProntoAHSH.owl#Relation> ;
+    sssom:object_label "Relation" ;
+    sssom:object_source <http://purl.org/net/pronto/Pronto.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/actorODP/ResourceRelation> ;
+    sssom:subject_label "ResourceRelation" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://w3id.org/CEON/ontology/full/0.1</onto1>
+	<onto2>/Users/huali50/Documents/project/Onto-Deside/input_ontologies/29-SAREF4ENVR.owl</onto2>
+	<uri1>http://w3id.org/CEON/ontology/full/0.1</uri1>
+	<uri2>/Users/huali50/Documents/project/Onto-Deside/input_ontologies/29-SAREF4ENVR.owl</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+			<entity2 rdf:resource="https://saref.etsi.org/core/Energy"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ServiceProcess"/>
+			<entity2 rdf:resource="https://saref.etsi.org/core/Service"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7044</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.w3.org/ns/prov#Start"/>
+			<entity2 rdf:resource="https://saref.etsi.org/core/StartCommand"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6086</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ActorProcessRole"/>
+			<entity2 rdf:resource="https://saref.etsi.org/saref4ener/PauseDurationMax"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/cvn/CVN"/>
+			<entity2 rdf:resource="https://saref.etsi.org/saref4ener/ActiveDurationDescription"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ActorResourceRole"/>
+			<entity2 rdf:resource="https://saref.etsi.org/saref4ener/PauseDurationMin"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

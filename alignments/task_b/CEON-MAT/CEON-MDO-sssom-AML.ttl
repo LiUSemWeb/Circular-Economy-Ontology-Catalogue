@@ -1,0 +1,56 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-MDO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 9.852e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <https://w3id.org/mdo/core/Material> ;
+    sssom:object_label "Material" ;
+    sssom:object_source <https://w3id.org/mdo/full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/material/Material> ;
+    sssom:subject_label "Material" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-MDO-mapping-1 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <https://w3id.org/mdo/structure/Composition> ;
+    sssom:object_label "Composition" ;
+    sssom:object_source <https://w3id.org/mdo/full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/resourceODP/Composition> ;
+    sssom:subject_label "Composition" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-MDO-mapping-2 a sssom:Mapping ;
+    sssom:condifence 8.821e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <https://w3id.org/mdo/core/PhysicalProperty> ;
+    sssom:object_label "PhysicalProperty" ;
+    sssom:object_source <https://w3id.org/mdo/full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/resourceODP/PhysicalObject> ;
+    sssom:subject_label "PhysicalObject" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-MDO-mapping-3 a sssom:Mapping ;
+    sssom:condifence 7.445e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://qudt.org/schema/qudt/QuantityKind> ;
+    sssom:object_label "QuantityKind" ;
+    sssom:object_source <https://w3id.org/mdo/full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/product/Product> ;
+    sssom:subject_label "Product" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

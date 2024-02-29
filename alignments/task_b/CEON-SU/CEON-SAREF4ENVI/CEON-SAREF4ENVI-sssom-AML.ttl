@@ -1,0 +1,30 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-SAREF4ENVI-mapping-0 a sssom:Mapping ;
+    sssom:condifence 9.839e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <https://saref.etsi.org/saref4envi/PhysicalObject> ;
+    sssom:object_label "PhysicalObject" ;
+    sssom:object_source </Users/huali50/Documents/project/Onto-Deside/input_ontologies/30-SAREF4ENVI.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/resourceODP/PhysicalObject> ;
+    sssom:subject_label "PhysicalObject" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-SAREF4ENVI-mapping-1 a sssom:Mapping ;
+    sssom:condifence 7.19e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <https://saref.etsi.org/core/Service> ;
+    sssom:object_label "Service" ;
+    sssom:object_source </Users/huali50/Documents/project/Onto-Deside/input_ontologies/30-SAREF4ENVI.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/process/ServiceProcess> ;
+    sssom:subject_label "ServiceProcess" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

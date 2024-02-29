@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://w3id.org/CEON/ontology/full/0.1</onto1>
+	<onto2>http://siam.nist.gov/AM-Ontology-v2#</onto2>
+	<uri1>http://w3id.org/CEON/ontology/full/0.1</uri1>
+	<uri2>http://siam.nist.gov/AM-Ontology-v2#</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+			<entity2 rdf:resource="http://siam.nist.gov/AM-Ontology_v2#Material"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/PhysicalObject"/>
+			<entity2 rdf:resource="http://siam.nist.gov/AM-Ontology-v2#PhysicalProperty"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8821</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/product/ProductComposition"/>
+			<entity2 rdf:resource="http://siam.nist.gov/AM-Ontology_v2#ChemicalComposition"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8821</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ProcessParticipation"/>
+			<entity2 rdf:resource="http://siam.nist.gov/AM-Ontology_v2#ProcessParameter"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7351</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+			<entity2 rdf:resource="http://siam.nist.gov/AM-Ontology-v2#ThermalModel"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.698</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ActorProcessRole"/>
+			<entity2 rdf:resource="http://siam.nist.gov/AM-Ontology-v2#ConsolidationInitialCondition"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/cvn/CVN"/>
+			<entity2 rdf:resource="http://siam.nist.gov/AM-Ontology_v2#IrradiationModelingAssumption"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ActorResourceRole"/>
+			<entity2 rdf:resource="http://siam.nist.gov/AM-Ontology-v2#FluidMechanicsCharacteristic"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

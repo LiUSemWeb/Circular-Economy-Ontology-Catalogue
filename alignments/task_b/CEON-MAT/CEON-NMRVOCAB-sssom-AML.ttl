@@ -1,0 +1,30 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-NMRVOCAB-mapping-0 a sssom:Mapping ;
+    sssom:condifence 9.306e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://192.168.1.4/vocab/?tema=102> ;
+    sssom:object_label "" ;
+    sssom:object_source <http://192.168.1.4/vocab/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/resourceODP/Composition> ;
+    sssom:subject_label "Composition" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-NMRVOCAB-mapping-1 a sssom:Mapping ;
+    sssom:condifence 6.43e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://192.168.1.4/vocab/?tema=899> ;
+    sssom:object_label "" ;
+    sssom:object_source <http://192.168.1.4/vocab/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/processODP/ProcessType> ;
+    sssom:subject_label "ProcessType" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

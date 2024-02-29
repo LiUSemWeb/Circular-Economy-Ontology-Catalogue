@@ -1,0 +1,5 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/actor/UsingResource;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://www.w3.org/2000/01/rdf-schema#Resource;UsingResource;Resource;0.73;LogMap;=;
+http://w3id.org/CEON/ontology/resourceODP/Information;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://krono.act.uji.es/ontology.owl#Information_services;Information;Information_services;0.58;LogMap;=;
+http://w3id.org/CEON/ontology/process/Energy;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://krono.act.uji.es/ontology.owl#Energy_work;Energy;Energy_work;0.9;LogMap;=;
+http://w3id.org/CEON/ontology/product/Product;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;http://krono.act.uji.es/ontology.owl#Well_production_services;Product;Well_production_services;0.51;LogMap;=;

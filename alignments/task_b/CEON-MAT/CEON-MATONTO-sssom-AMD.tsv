@@ -1,0 +1,7 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/full/0.1#Entity;http://w3id.org/CEON/ontology/full/0.1;http://matonto.org/ontologies/matonto;;http://matonto.org/ontologies/matonto#Entity;Entity;Entity;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Role;http://w3id.org/CEON/ontology/full/0.1;http://matonto.org/ontologies/matonto;;http://matonto.org/ontologies/matonto#Role;Role;Role;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Process;http://w3id.org/CEON/ontology/full/0.1;http://matonto.org/ontologies/matonto;;http://matonto.org/ontologies/matonto#Process;Process;Process;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Material;http://w3id.org/CEON/ontology/full/0.1;http://matonto.org/ontologies/matonto;;http://matonto.org/ontologies/matonto#Material;Material;Material;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Energy;http://w3id.org/CEON/ontology/full/0.1;http://matonto.org/ontologies/matonto;;http://matonto.org/ontologies/matonto#Energy;Energy;Energy;1.0;AMD;=;
+http://w3id.org/CEON/ontology/full/0.1#Information;http://w3id.org/CEON/ontology/full/0.1;http://matonto.org/ontologies/matonto;;http://matonto.org/ontologies/matonto#Information;Information;Information;1.0;AMD;=;

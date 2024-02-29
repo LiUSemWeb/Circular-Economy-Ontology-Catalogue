@@ -1,0 +1,45 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-BPO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 9.9e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id foaf:Person ;
+    sssom:object_label "Person" ;
+    sssom:object_source <https://w3id.org/bpo> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id prov:Person ;
+    sssom:subject_label "Person" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-BPO-mapping-1 a sssom:Mapping ;
+    sssom:condifence 9.891e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <https://w3id.org/bpo#Entity> ;
+    sssom:object_label "Entity" ;
+    sssom:object_source <https://w3id.org/bpo> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id prov:Entity ;
+    sssom:subject_label "Entity" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-BPO-mapping-2 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <https://w3id.org/bpo#Product> ;
+    sssom:object_label "Product" ;
+    sssom:object_source <https://w3id.org/bpo> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/product/Product> ;
+    sssom:subject_label "Product" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

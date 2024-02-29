@@ -1,0 +1,2 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/full/0.1#Energy;http://w3id.org/CEON/ontology/full/0.1;://target.owl;;target.owl#Energy;Energy;Energy;1.0;AMD;=;

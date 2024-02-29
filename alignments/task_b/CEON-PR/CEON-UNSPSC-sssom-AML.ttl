@@ -1,0 +1,45 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-UNSPSC-mapping-0 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id rdfs:Resource ;
+    sssom:object_label "Resource" ;
+    sssom:object_source </Users/huali50/Documents/project/Onto-Deside/input_ontologies/35-UNSPSC.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/resourceODP/Resource> ;
+    sssom:subject_label "Resource" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-UNSPSC-mapping-1 a sssom:Mapping ;
+    sssom:condifence 7.051e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <file:/srv/ontoportal/data/repository/UNSPSC/1/unspsc84-title.rdfs#Information_services> ;
+    sssom:object_label "Information_services" ;
+    sssom:object_source </Users/huali50/Documents/project/Onto-Deside/input_ontologies/35-UNSPSC.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/resourceODP/Information> ;
+    sssom:subject_label "Information" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-UNSPSC-mapping-2 a sssom:Mapping ;
+    sssom:condifence 6.068e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <file:/srv/ontoportal/data/repository/UNSPSC/1/unspsc84-title.rdfs#Power_generation> ;
+    sssom:object_label "Power_generation" ;
+    sssom:object_source </Users/huali50/Documents/project/Onto-Deside/input_ontologies/35-UNSPSC.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id prov:Generation ;
+    sssom:subject_label "Generation" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
