@@ -1,0 +1,12 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:BiOnto-DPPO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AMD" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-full/Product> ;
+    sssom:object_label "Product" ;
+    sssom:object_source 

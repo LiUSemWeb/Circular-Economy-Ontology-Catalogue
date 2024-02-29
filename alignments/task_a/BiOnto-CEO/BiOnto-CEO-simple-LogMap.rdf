@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://ontorion.com/namespace#</onto1>
+<onto2>http://ontorion.com/namespace#</onto2>
+<uri1>http://ontorion.com/namespace#</uri1>
+<uri2>http://ontorion.com/namespace#</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#time"/>
+		<entity2 rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Time"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Waste"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#Waste"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Activity"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#Activity"/>
+		<measure rdf:datatype="xsd:float">0.75</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Manufacturing"/>
+		<entity2 rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Manufacturing"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Tool"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#Tool"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Resource"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#Resource"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#supports"/>
+		<entity2 rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#supports"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

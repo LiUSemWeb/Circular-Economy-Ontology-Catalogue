@@ -1,0 +1,4 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://w3id.org/CEON/ontology/material/Material;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://github.com/linmor-sys/BCAO.owl#Material;Material;Material;0.7;LogMap;=;
+http://w3id.org/CEON/ontology/process/ManufacturingProcess;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://github.com/linmor-sys/BCAO.owl#Manufacturer;ManufacturingProcess;Manufacturer;0.44;LogMap;=;
+http://w3id.org/CEON/ontology/product/Product;http://w3id.org/CEON/ontology/full/0.1;http://w3id.org/CEON/ontology/full/0.1;;https://github.com/linmor-sys/BCAO.owl#Product;Product;Product;0.7;LogMap;=;

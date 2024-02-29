@@ -1,0 +1,10 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://ontorion.com/namespace#Manufacturing;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CEO;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Manufacturing;Manufacturing;Manufacturing;0.99;AML;=;
+http://ontorion.com/namespace#Tool;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Tool;Tool;Tool;0.99;AML;=;
+http://ontorion.com/namespace#Activity;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Activity;Activity;Activity;0.9874;AML;=;
+http://ontorion.com/namespace#Waste;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Waste;Waste;Waste;0.9801;AML;=;
+http://ontorion.com/namespace#Resource;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Resource;Resource;Resource;0.9801;AML;=;
+http://ontorion.com/namespace#Market;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CEO;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Market;Market;Market;0.9801;AML;=;
+http://ontorion.com/namespace#Product;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Product;Product;Product;0.9801;AML;=;
+http://ontorion.com/namespace#time;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CEO;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Time;time;Time;0.9801;AML;=;
+http://ontorion.com/namespace#Position;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CEO;;http://www.w3.org/2006/time#TimePosition;Position;TimePosition;0.6351;AML;=;

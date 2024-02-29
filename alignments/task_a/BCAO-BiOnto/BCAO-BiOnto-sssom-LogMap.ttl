@@ -1,0 +1,43 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:BCAO-BiOnto-mapping-0 a sssom:Mapping ;
+    sssom:condifence 7e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://ontorion.com/namespace#Material> ;
+    sssom:object_label "Material" ;
+    sssom:object_source <https://github.com/linmor-sys/BCAO.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <https://github.com/linmor-sys/BCAO.owl#Material> ;
+    sssom:subject_label "Material" ;
+    sssom:subject_source <https://github.com/linmor-sys/BCAO.owl> .
+
+ceon-alignment:BCAO-BiOnto-mapping-1 a sssom:Mapping ;
+    sssom:condifence 7e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://ontorion.com/namespace#Product> ;
+    sssom:object_label "Product" ;
+    sssom:object_source <https://github.com/linmor-sys/BCAO.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <https://github.com/linmor-sys/BCAO.owl#Product> ;
+    sssom:subject_label "Product" ;
+    sssom:subject_source <https://github.com/linmor-sys/BCAO.owl> .
+
+ceon-alignment:BCAO-BiOnto-mapping-2 a sssom:Mapping ;
+    sssom:condifence 5.1e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://ontorion.com/namespace#Production> ;
+    sssom:object_label "Production" ;
+    sssom:object_source <https://github.com/linmor-sys/BCAO.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <https://github.com/linmor-sys/BCAO.owl#Product> ;
+    sssom:subject_label "Product" ;
+    sssom:subject_source <https://github.com/linmor-sys/BCAO.owl> .
+

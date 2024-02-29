@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://ontorion.com/namespace#</onto1>
+	<onto2>http://ld-ce.com/vocab/CAMO</onto2>
+	<uri1>http://ontorion.com/namespace#</uri1>
+	<uri2>http://ld-ce.com/vocab/CAMO</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Building"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#building"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Product"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#product"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.988</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Company"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#company"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9875</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Farming"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#farming"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9834</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Consumer"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#consumer"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9834</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Recycling"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#recycling"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Material"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#material"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Manufacturing"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#remanufacturing"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7281</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Human"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#individual"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6556</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#BiologicalMaterial"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#biological"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6381</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Tree"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#treeBased"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6155</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Tool"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#toolActivities"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6155</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

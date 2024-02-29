@@ -1,0 +1,4 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://ontorion.com/namespace#Material;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://w3id.org/dppo/ontology/dpp-full/Material;Material;Material;0.5;LogMap;=;
+http://ontorion.com/namespace#Product;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://w3id.org/dppo/ontology/dpp-odp/Product;Product;Product;0.74;LogMap;=;
+http://ontorion.com/namespace#hasPart;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://w3id.org/dppo/ontology/dpp-odp/hasPart;hasPart;hasPart;1.0;LogMap;=;

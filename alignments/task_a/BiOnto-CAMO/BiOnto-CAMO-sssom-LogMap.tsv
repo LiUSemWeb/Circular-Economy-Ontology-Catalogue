@@ -1,0 +1,17 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://ontorion.com/namespace#Material;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#material;Material;material;0.85;LogMap;=;
+http://ontorion.com/namespace#Recycling;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#recycling;Recycling;recycling;0.5;LogMap;=;
+http://ontorion.com/namespace#ConsumerGood;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#consumer;ConsumerGood;consumer;0.45;LogMap;=;
+http://ontorion.com/namespace#Consumption;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#consumer;Consumption;consumer;0.49;LogMap;=;
+http://ontorion.com/namespace#Animal;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#wholeAnimal;Animal;wholeAnimal;0.49;LogMap;=;
+http://ontorion.com/namespace#Resource;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#resources;Resource;resources;0.79;LogMap;=;
+http://ontorion.com/namespace#Plant;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#wholePlant;Plant;wholePlant;0.41;LogMap;=;
+http://ontorion.com/namespace#Farming;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#farming;Farming;farming;0.5;LogMap;=;
+http://ontorion.com/namespace#Product;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#product;Product;product;0.72;LogMap;=;
+http://ontorion.com/namespace#Building;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#building;Building;building;0.7;LogMap;=;
+http://ontorion.com/namespace#Metal;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#metals;Metal;metals;0.7;LogMap;=;
+http://ontorion.com/namespace#Activity;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#activities;Activity;activities;0.71;LogMap;=;
+http://ontorion.com/namespace#Company;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#company;Company;company;0.5;LogMap;=;
+http://ontorion.com/namespace#Alloy;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#alloys;Alloy;alloys;0.5;LogMap;=;
+http://ontorion.com/namespace#VegetableOil;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#vegetable;VegetableOil;vegetable;0.56;LogMap;=;
+http://ontorion.com/namespace#Consumer;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CAMO#consumer;Consumer;consumer;0.5;LogMap;=;

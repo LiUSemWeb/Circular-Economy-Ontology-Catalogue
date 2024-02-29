@@ -1,0 +1,13 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://ontorion.com/namespace#Building;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#building;Building;building;0.99;AML;=;
+http://ontorion.com/namespace#Product;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#product;Product;product;0.988;AML;=;
+http://ontorion.com/namespace#Company;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#company;Company;company;0.9875;AML;=;
+http://ontorion.com/namespace#Farming;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#farming;Farming;farming;0.9834;AML;=;
+http://ontorion.com/namespace#Consumer;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#consumer;Consumer;consumer;0.9834;AML;=;
+http://ontorion.com/namespace#Recycling;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#recycling;Recycling;recycling;0.9801;AML;=;
+http://ontorion.com/namespace#Material;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#material;Material;material;0.9801;AML;=;
+http://ontorion.com/namespace#Manufacturing;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#remanufacturing;Manufacturing;remanufacturing;0.7281;AML;=;
+http://ontorion.com/namespace#Human;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#individual;Human;individual;0.6556;AML;=;
+http://ontorion.com/namespace#BiologicalMaterial;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#biological;BiologicalMaterial;biological;0.6381;AML;=;
+http://ontorion.com/namespace#Tree;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#treeBased;Tree;treeBased;0.6155;AML;=;
+http://ontorion.com/namespace#Tool;http://ontorion.com/namespace#;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#toolActivities;Tool;toolActivities;0.6155;AML;=;

@@ -1,0 +1,5 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://ld-ce.com/vocab/CAMO#product;http://ld-ce.com/vocab/CAMO;http://w3id.org/dppo/ontology/dpp-full/;;http://w3id.org/dppo/ontology/dpp-odp/Product;product;Product;0.9801;AML;=;
+http://ld-ce.com/vocab/CAMO#actor;http://ld-ce.com/vocab/CAMO;http://w3id.org/dppo/ontology/dpp-full/;;http://w3id.org/dppo/ontology/dpp-prov/Actor;actor;Actor;0.9801;AML;=;
+http://ld-ce.com/vocab/CAMO#material;http://ld-ce.com/vocab/CAMO;http://w3id.org/dppo/ontology/dpp-full/;;http://w3id.org/dppo/ontology/dpp-full/Material;material;Material;0.9801;AML;=;
+http://ld-ce.com/vocab/CAMO#consumer;http://ld-ce.com/vocab/CAMO;http://w3id.org/dppo/ontology/dpp-full/;;http://w3id.org/dppo/ontology/dpp-prov/Consumer;consumer;Consumer;0.9801;AML;=;

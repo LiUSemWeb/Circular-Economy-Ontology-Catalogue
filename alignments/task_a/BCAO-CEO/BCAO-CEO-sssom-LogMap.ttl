@@ -1,0 +1,31 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:BCAO-CEO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 7e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://ld-ce.com/vocab/CEO#Product> ;
+    sssom:object_label "Product" ;
+    sssom:object_source <https://github.com/linmor-sys/BCAO.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <https://github.com/linmor-sys/BCAO.owl#Product> ;
+    sssom:subject_label "Product" ;
+    sssom:subject_source <https://github.com/linmor-sys/BCAO.owl> .
+
+ceon-alignment:BCAO-CEO-mapping-1 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id owl:topObjectProperty ;
+    sssom:object_label "topObjectProperty" ;
+    sssom:object_source <https://github.com/linmor-sys/BCAO.owl> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id owl:topObjectProperty ;
+    sssom:subject_label "topObjectProperty" ;
+    sssom:subject_source <https://github.com/linmor-sys/BCAO.owl> .
+

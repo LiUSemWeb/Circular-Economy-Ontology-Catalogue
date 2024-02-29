@@ -1,0 +1,5 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://ontorion.com/namespace#Material;http://ontorion.com/namespace#;http://w3id.org/dppo/ontology/dpp-full/;;http://w3id.org/dppo/ontology/dpp-full/Material;Material;Material;0.9821;AML;=;
+http://ontorion.com/namespace#Product;http://ontorion.com/namespace#;http://w3id.org/dppo/ontology/dpp-full/;;http://w3id.org/dppo/ontology/dpp-odp/Product;Product;Product;0.9801;AML;=;
+http://ontorion.com/namespace#Consumer;http://ontorion.com/namespace#;http://w3id.org/dppo/ontology/dpp-full/;;http://w3id.org/dppo/ontology/dpp-prov/Consumer;Consumer;Consumer;0.9801;AML;=;
+http://ontorion.com/namespace#ValueChain;http://ontorion.com/namespace#;http://w3id.org/dppo/ontology/dpp-full/;;http://w3id.org/dppo/ontology/dpp-prov/ValueChainActor;ValueChain;ValueChainActor;0.6956;AML;=;

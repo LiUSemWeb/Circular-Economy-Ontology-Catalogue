@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://ld-ce.com/vocab/CAMO</onto1>
+	<onto2>http://ld-ce.com/vocab/CEO</onto2>
+	<uri1>http://ld-ce.com/vocab/CAMO</uri1>
+	<uri2>http://ld-ce.com/vocab/CEO</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#standing"/>
+			<entity2 rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Standing"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#product"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#Product"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#resources"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#Resource"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7564</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#reverseLogisticsActivities"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#ReverseLogistics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7411</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#remanufacturing"/>
+			<entity2 rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Manufacturing"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7281</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#postUseActivities"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#PostUseActivity"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7211</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#creationActivities"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#CreationActivity"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7211</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#wearing"/>
+			<entity2 rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Hearing"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6494</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#activities"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#Activity"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6406</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ld-ce.com/vocab/CAMO#toolActivities"/>
+			<entity2 rdf:resource="http://ld-ce.com/vocab/CEO#Tool"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6155</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

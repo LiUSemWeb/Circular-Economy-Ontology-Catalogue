@@ -1,0 +1,5 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://www.w3.org/ns/prov#Activity;http://w3id.org/CEON/ontology/full/0.1;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Activity;Activity;Activity;0.986;AML;=;
+http://w3id.org/CEON/ontology/resourceODP/Resource;http://w3id.org/CEON/ontology/full/0.1;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Resource;Resource;Resource;0.9801;AML;=;
+http://w3id.org/CEON/ontology/product/Product;http://w3id.org/CEON/ontology/full/0.1;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Product;Product;Product;0.9801;AML;=;
+http://w3id.org/CEON/ontology/process/ManufacturingProcess;http://w3id.org/CEON/ontology/full/0.1;http://ld-ce.com/vocab/CEO;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Manufacturing;ManufacturingProcess;Manufacturing;0.719;AML;=;

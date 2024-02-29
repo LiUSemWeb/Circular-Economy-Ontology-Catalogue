@@ -1,0 +1,4 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+https://github.com/linmor-sys/BCAO.owl#Product;https://github.com/linmor-sys/BCAO.owl;http://ontorion.com/namespace;;http://ontorion.com/namespace#Product;Product;Product;1.0;AMD;=;
+https://github.com/linmor-sys/BCAO.owl#Material;https://github.com/linmor-sys/BCAO.owl;http://ontorion.com/namespace;;http://ontorion.com/namespace#Material;Material;Material;1.0;AMD;=;
+https://github.com/linmor-sys/BCAO.owl#Service;https://github.com/linmor-sys/BCAO.owl;http://ontorion.com/namespace;;http://ontorion.com/namespace#Service;Service;Service;1.0;AMD;=;

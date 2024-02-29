@@ -1,0 +1,3 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+https://github.com/linmor-sys/BCAO.owl#Product;https://github.com/linmor-sys/BCAO.owl;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#product;Product;product;1.0;AMD;=;
+https://github.com/linmor-sys/BCAO.owl#Material;https://github.com/linmor-sys/BCAO.owl;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#material;Material;material;1.0;AMD;=;

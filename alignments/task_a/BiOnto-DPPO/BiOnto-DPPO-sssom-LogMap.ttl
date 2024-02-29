@@ -1,0 +1,43 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:BiOnto-DPPO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 5e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-full/Material> ;
+    sssom:object_label "Material" ;
+    sssom:object_source <http://ontorion.com/namespace#> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ontorion.com/namespace#Material> ;
+    sssom:subject_label "Material" ;
+    sssom:subject_source <http://ontorion.com/namespace#> .
+
+ceon-alignment:BiOnto-DPPO-mapping-1 a sssom:Mapping ;
+    sssom:condifence 7.4e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-odp/Product> ;
+    sssom:object_label "Product" ;
+    sssom:object_source <http://ontorion.com/namespace#> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ontorion.com/namespace#Product> ;
+    sssom:subject_label "Product" ;
+    sssom:subject_source <http://ontorion.com/namespace#> .
+
+ceon-alignment:BiOnto-DPPO-mapping-2 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "LogMap" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-odp/hasPart> ;
+    sssom:object_label "hasPart" ;
+    sssom:object_source <http://ontorion.com/namespace#> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ontorion.com/namespace#hasPart> ;
+    sssom:subject_label "hasPart" ;
+    sssom:subject_source <http://ontorion.com/namespace#> .
+

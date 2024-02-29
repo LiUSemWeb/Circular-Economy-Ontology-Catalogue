@@ -1,0 +1,12 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://ontorion.com/namespace#Product;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#product;Product;product;1.0;AMD;=;
+http://ontorion.com/namespace#Alloy;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#alloys;Alloy;alloys;0.963;AMD;=;
+http://ontorion.com/namespace#Material;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#material;Material;material;1.0;AMD;=;
+http://ontorion.com/namespace#Biodegradation;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#biodegrading;Biodegradation;biodegrading;0.976;AMD;=;
+http://ontorion.com/namespace#Building;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#building;Building;building;1.0;AMD;=;
+http://ontorion.com/namespace#Company;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#company;Company;company;1.0;AMD;=;
+http://ontorion.com/namespace#Consumer;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#consumer;Consumer;consumer;1.0;AMD;=;
+http://ontorion.com/namespace#Resource;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#resources;Resource;resources;0.957;AMD;=;
+http://ontorion.com/namespace#Farming;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#farming;Farming;farming;1.0;AMD;=;
+http://ontorion.com/namespace#Recycling;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#recycling;Recycling;recycling;1.0;AMD;=;
+http://ontorion.com/namespace#Reuse;http://ontorion.com/namespace;http://ld-ce.com/vocab/CAMO;;http://ld-ce.com/vocab/CAMO#reusing;Reuse;reusing;0.943;AMD;=;

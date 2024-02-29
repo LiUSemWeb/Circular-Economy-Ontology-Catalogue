@@ -1,0 +1,11 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://ld-ce.com/vocab/CAMO#standing;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Standing;standing;Standing;0.99;AML;=;
+http://ld-ce.com/vocab/CAMO#product;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Product;product;Product;0.9801;AML;=;
+http://ld-ce.com/vocab/CAMO#resources;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Resource;resources;Resource;0.7564;AML;=;
+http://ld-ce.com/vocab/CAMO#reverseLogisticsActivities;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#ReverseLogistics;reverseLogisticsActivities;ReverseLogistics;0.7411;AML;=;
+http://ld-ce.com/vocab/CAMO#remanufacturing;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Manufacturing;remanufacturing;Manufacturing;0.7281;AML;=;
+http://ld-ce.com/vocab/CAMO#postUseActivities;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#PostUseActivity;postUseActivities;PostUseActivity;0.7211;AML;=;
+http://ld-ce.com/vocab/CAMO#creationActivities;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#CreationActivity;creationActivities;CreationActivity;0.7211;AML;=;
+http://ld-ce.com/vocab/CAMO#wearing;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Hearing;wearing;Hearing;0.6494;AML;=;
+http://ld-ce.com/vocab/CAMO#activities;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Activity;activities;Activity;0.6406;AML;=;
+http://ld-ce.com/vocab/CAMO#toolActivities;http://ld-ce.com/vocab/CAMO;http://ld-ce.com/vocab/CEO;;http://ld-ce.com/vocab/CEO#Tool;toolActivities;Tool;0.6155;AML;=;

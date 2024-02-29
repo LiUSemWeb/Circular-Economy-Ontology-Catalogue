@@ -1,0 +1,56 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:BiOnto-DPPO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 9.821e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-full/Material> ;
+    sssom:object_label "Material" ;
+    sssom:object_source <http://w3id.org/dppo/ontology/dpp-full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ontorion.com/namespace#Material> ;
+    sssom:subject_label "Material" ;
+    sssom:subject_source <http://ontorion.com/namespace#> .
+
+ceon-alignment:BiOnto-DPPO-mapping-1 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-odp/Product> ;
+    sssom:object_label "Product" ;
+    sssom:object_source <http://w3id.org/dppo/ontology/dpp-full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ontorion.com/namespace#Product> ;
+    sssom:subject_label "Product" ;
+    sssom:subject_source <http://ontorion.com/namespace#> .
+
+ceon-alignment:BiOnto-DPPO-mapping-2 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-prov/Consumer> ;
+    sssom:object_label "Consumer" ;
+    sssom:object_source <http://w3id.org/dppo/ontology/dpp-full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ontorion.com/namespace#Consumer> ;
+    sssom:subject_label "Consumer" ;
+    sssom:subject_source <http://ontorion.com/namespace#> .
+
+ceon-alignment:BiOnto-DPPO-mapping-3 a sssom:Mapping ;
+    sssom:condifence 6.956e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-prov/ValueChainActor> ;
+    sssom:object_label "ValueChainActor" ;
+    sssom:object_source <http://w3id.org/dppo/ontology/dpp-full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ontorion.com/namespace#ValueChain> ;
+    sssom:subject_label "ValueChain" ;
+    sssom:subject_source <http://ontorion.com/namespace#> .
+

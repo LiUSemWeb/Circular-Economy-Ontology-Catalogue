@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://ontorion.com/namespace#</onto1>
+	<onto2>http://w3id.org/dppo/ontology/dpp-full/</onto2>
+	<uri1>http://ontorion.com/namespace#</uri1>
+	<uri2>http://w3id.org/dppo/ontology/dpp-full/</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Material"/>
+			<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-full/Material"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9821</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Product"/>
+			<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/Product"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#Consumer"/>
+			<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-prov/Consumer"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ontorion.com/namespace#ValueChain"/>
+			<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-prov/ValueChainActor"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6956</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

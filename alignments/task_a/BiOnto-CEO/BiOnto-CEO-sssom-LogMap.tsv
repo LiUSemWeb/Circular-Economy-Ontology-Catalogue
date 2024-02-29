@@ -1,0 +1,8 @@
+subject_id;subject_source;object_source;predicate_id;object_id;subject_label;object_label;confidence;tool;cardinality;mapping_justification
+http://ontorion.com/namespace#time;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Time;time;Time;0.7;LogMap;=;
+http://ontorion.com/namespace#Waste;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CEO#Waste;Waste;Waste;0.5;LogMap;=;
+http://ontorion.com/namespace#Activity;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CEO#Activity;Activity;Activity;0.75;LogMap;=;
+http://ontorion.com/namespace#Manufacturing;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Manufacturing;Manufacturing;Manufacturing;0.5;LogMap;=;
+http://ontorion.com/namespace#Tool;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CEO#Tool;Tool;Tool;0.5;LogMap;=;
+http://ontorion.com/namespace#Resource;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://ld-ce.com/vocab/CEO#Resource;Resource;Resource;0.5;LogMap;=;
+http://ontorion.com/namespace#supports;http://ontorion.com/namespace#;http://ontorion.com/namespace#;;http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#supports;supports;supports;1.0;LogMap;=;

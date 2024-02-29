@@ -1,0 +1,30 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CEON-CEO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AMD" ;
+    sssom:object_id <http://ld-ce.com/vocab/CEO#Resource> ;
+    sssom:object_label "Resource" ;
+    sssom:object_source <http://ld-ce.com/vocab/CEO> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/full/0.1#Resource> ;
+    sssom:subject_label "Resource" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+
+ceon-alignment:CEON-CEO-mapping-1 a sssom:Mapping ;
+    sssom:condifence 1e+00 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AMD" ;
+    sssom:object_id <http://ld-ce.com/vocab/CEO#Activity> ;
+    sssom:object_label "Activity" ;
+    sssom:object_source <http://ld-ce.com/vocab/CEO> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://w3id.org/CEON/ontology/full/0.1#Activity> ;
+    sssom:subject_label "Activity" ;
+    sssom:subject_source <http://w3id.org/CEON/ontology/full/0.1> .
+

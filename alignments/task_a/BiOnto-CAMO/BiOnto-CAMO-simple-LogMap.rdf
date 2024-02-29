@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://ontorion.com/namespace#</onto1>
+<onto2>http://ontorion.com/namespace#</onto2>
+<uri1>http://ontorion.com/namespace#</uri1>
+<uri2>http://ontorion.com/namespace#</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Material"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#material"/>
+		<measure rdf:datatype="xsd:float">0.85</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Recycling"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#recycling"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#ConsumerGood"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#consumer"/>
+		<measure rdf:datatype="xsd:float">0.45</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Consumption"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#consumer"/>
+		<measure rdf:datatype="xsd:float">0.49</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Animal"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#wholeAnimal"/>
+		<measure rdf:datatype="xsd:float">0.49</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Resource"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#resources"/>
+		<measure rdf:datatype="xsd:float">0.79</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Plant"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#wholePlant"/>
+		<measure rdf:datatype="xsd:float">0.41</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Farming"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#farming"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Product"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#product"/>
+		<measure rdf:datatype="xsd:float">0.72</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Building"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#building"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Metal"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#metals"/>
+		<measure rdf:datatype="xsd:float">0.7</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Activity"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#activities"/>
+		<measure rdf:datatype="xsd:float">0.71</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Company"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#company"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Alloy"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#alloys"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#VegetableOil"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#vegetable"/>
+		<measure rdf:datatype="xsd:float">0.56</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Consumer"/>
+		<entity2 rdf:resource="http://ld-ce.com/vocab/CAMO#consumer"/>
+		<measure rdf:datatype="xsd:float">0.5</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

@@ -1,0 +1,56 @@
+@prefix ceon-alignment: <https://w3id.org/CEON/alignment/> .
+@prefix sssom: <https://w3id.org/sssom/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ceon-alignment:CAMO-DPPO-mapping-0 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-odp/Product> ;
+    sssom:object_label "Product" ;
+    sssom:object_source <http://w3id.org/dppo/ontology/dpp-full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ld-ce.com/vocab/CAMO#product> ;
+    sssom:subject_label "product" ;
+    sssom:subject_source <http://ld-ce.com/vocab/CAMO> .
+
+ceon-alignment:CAMO-DPPO-mapping-1 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-prov/Actor> ;
+    sssom:object_label "Actor" ;
+    sssom:object_source <http://w3id.org/dppo/ontology/dpp-full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ld-ce.com/vocab/CAMO#actor> ;
+    sssom:subject_label "actor" ;
+    sssom:subject_source <http://ld-ce.com/vocab/CAMO> .
+
+ceon-alignment:CAMO-DPPO-mapping-2 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-full/Material> ;
+    sssom:object_label "Material" ;
+    sssom:object_source <http://w3id.org/dppo/ontology/dpp-full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ld-ce.com/vocab/CAMO#material> ;
+    sssom:subject_label "material" ;
+    sssom:subject_source <http://ld-ce.com/vocab/CAMO> .
+
+ceon-alignment:CAMO-DPPO-mapping-3 a sssom:Mapping ;
+    sssom:condifence 9.801e-01 ;
+    sssom:mapping_cardinality "=" ;
+    sssom:mapping_justification "semapv:LexicalMatching" ;
+    sssom:mapping_tool "AML" ;
+    sssom:object_id <http://w3id.org/dppo/ontology/dpp-prov/Consumer> ;
+    sssom:object_label "Consumer" ;
+    sssom:object_source <http://w3id.org/dppo/ontology/dpp-full/> ;
+    sssom:predicate_id "skos:exactMatch" ;
+    sssom:subject_id <http://ld-ce.com/vocab/CAMO#consumer> ;
+    sssom:subject_label "consumer" ;
+    sssom:subject_source <http://ld-ce.com/vocab/CAMO> .
+
