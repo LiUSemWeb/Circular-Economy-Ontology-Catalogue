@@ -32,15 +32,15 @@ For the materials domain, we have  13 ontologies which are AMO, BUILDMAT, BWMDDo
 For the manufacturing domain, we have 14 ontologies which are AMO, BWMDDomain, CHAMP, COMPOSION, GPO, GRACE, IOFcore, ManuService, MSDL, MSOOFM, PSS,SAREF4INMA, VERONTO, ZBRE4K.
 |      | AMO | BWMDDomain | CHAMP | COMPOSION | GPO | GRACE | IOFcore | ManuService | MSDL | MSOOFM | PSS | SAREF4INMA | VERONTO | ZBRE4K |
 |------|-----|------------|-------|-----------|-----|-------|---------|-------------|------|--------|-----|------------|---------|--------|
-| CEON |     |            |       |           |     |       |         |             |      |        |     |            |         |        |
+| CEON |[:heavy_check_mark:](./task_b/CEON-MAN/CEON-AMO/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-BWMDDomain/)|       |[:heavy_check_mark:](./task_b/CEON-MAN/CEON-COMPOSION/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-GPO/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-GRACE/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-IOFcore/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-ManuService/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-MSDL/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-MSOOFM/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-PSS/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-SAREF4INMA/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-VERONTO/)|[:heavy_check_mark:](./task_b/CEON-MAN/CEON-ZBRE4K/)|
 ##### Product Domain
 For the product domain, we have 9 ontologies which are AMO, BONSAIcore, BPO, CHAMP, GRACE, ManuService, PRONTO, UNSPSC, VERONTO.
 |      | AMO | BONSAIcore | BPO | CHAMP | GRACE | ManuService | PRONTO | UNSPSC | VERONTO |
 |------|-----|------------|-----|-------|-------|-------------|--------|--------|---------|
-| CEON |     |            |     |       |       |             |        |        |         |
+| CEON |[:heavy_check_mark:](./task_b/CEON-PR/CEON-AMO/)|[:heavy_check_mark:](./task_b/CEON-PR/CEON-BONSAIcore/)|[:heavy_check_mark:](./task_b/CEON-PR/CEON-BPO/)|[:heavy_check_mark:](./task_b/CEON-PR/CEON-CHAMP/)|[:heavy_check_mark:](./task_b/CEON-PR/CEON-GRACE/)|[:heavy_check_mark:](./task_b/CEON-PR/CEON-ManuService/)|[:heavy_check_mark:](./task_b/CEON-PR/CEON-PRONTO/)|[:heavy_check_mark:](./task_b/CEON-PR/CEON-UNSPSC/)|[:heavy_check_mark:](./task_b/CEON-PR/CEON-VERONTO/)|
 ##### Logistics Domain
 For the logistics domain, we have 8 ontologies which are COMPOSION, GPO, IMAMO, ManuService, MSOOFM, ROMAIN, SCONTO, SCOR.
 |      | COMPOSION | GPO | IMAMO | ManuService | MSOOFM | ROMAIN | SCONTO | SCOR | VERONTO |
 |------|-----------|-----|-------|-------------|--------|--------|--------|------|---------|
-| CEON |           |     |       |             |        |        |        |      |         |
+| CEON |[:heavy_check_mark:](./task_b/CEON-LO/CEON-COMPOSION/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-GPO/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-IMAMO/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-ManuService/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-MSOOFM/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-ROMAIN/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-SCONTO/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-SCOR/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-VERONTO/)|
 #### Task c: CEON-EMMO
