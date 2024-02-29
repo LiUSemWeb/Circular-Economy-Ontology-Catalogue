@@ -1,6 +1,7 @@
 # Circular-Economy-Ontology-Catalogue
 
 In this repository, we collect ontologies relevant to the circular economy domain, as well as cross-industry domains (e.g., manufacturing, product, sustainability and material) that may be connected in circular value networks.
+Additionally, we provide the initial and experimental ontology alignment results among relevant ontologies for the CE domain.
 
 ## Contents
 
