@@ -9,6 +9,15 @@ Therefore, we have 6 CE-related ontologies, a number of domain-specific ontologi
 #### Task a: CE-CE
 The 6 CE-related ontologies are: BCAO, BiOnto, CAMO, CEO, DPPO and CEON. Therefore we have 15 alignments.
 
+|        | BCAO | BiOnto | CAMO | CEO | DPPO | CEON |
+|--------|------|--------|------|-----|------|------|
+| BCAO   |      |        |      |     |      |      |
+| BiOnto |      |        |      |     |      |      |
+| CAMO   |      |        |      |     |      |      |
+| CEO    |      |        |      |     |      |      |
+| DPPO   |      |        |      |     |      |      |
+| CEON   |      |        |      |     |      |      |
+
 #### Task b: CEON-IndusDom
 ##### Sustainability Domain
 For the sustainability domain, we have 5 ontologies which are BONSAIcore, ENVO, SAREF4ENVR, SAREF4ENVI, SDGIO.
