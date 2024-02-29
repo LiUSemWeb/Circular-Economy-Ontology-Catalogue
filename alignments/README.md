@@ -9,13 +9,13 @@ Therefore, we have 6 CE-related ontologies, a number of domain-specific ontologi
 #### Task a: CE-CE
 The 6 CE-related ontologies are: BCAO, BiOnto, CAMO, CEO, DPPO and CEON. Therefore we have 15 alignments.
 
-|        | BCAO | BiOnto | CAMO | CEO | DPPO | CEON |
-|--------|------|--------|------|-----|------|------|
-| BCAO   |      | [:heavy_check_mark:](./task_a/BCAO-BiOnto/)|[:heavy_check_mark:](./task_a/BCAO-CAMO/)|[:heavy_check_mark:](./task_a/BCAO-CEO/)|[:heavy_check_mark:](./task_a/BCAO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-BCAO/)|
-| BiOnto |      |        |[:heavy_check_mark:](./task_a/BiOnto-CAMO/)|[:heavy_check_mark:](./task_a/BiOnto-CEO/)|[:heavy_check_mark:](./task_a/BiOnto-DPPO/)|[:heavy_check_mark:](./task_a/CEON-BiOnto/)|
-| CAMO   |      |        |      |[:heavy_check_mark:](./task_a/CAMO-CEO/)|[:heavy_check_mark:](./task_a/CAMO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-CAMO/)|
-| CEO    |      |        |      |     |[:heavy_check_mark:](./task_a/CEO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-CEO/)|
-| DPPO   |      |        |      |     |      |[:heavy_check_mark:](./task_a/CEON-DPPO/)|
+|        |  BiOnto | CAMO | CEO | DPPO | CEON |
+|--------|--------|------|-----|------|------|
+| BCAO   | [:heavy_check_mark:](./task_a/BCAO-BiOnto/)|[:heavy_check_mark:](./task_a/BCAO-CAMO/)|[:heavy_check_mark:](./task_a/BCAO-CEO/)|[:heavy_check_mark:](./task_a/BCAO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-BCAO/)|
+| BiOnto |        |[:heavy_check_mark:](./task_a/BiOnto-CAMO/)|[:heavy_check_mark:](./task_a/BiOnto-CEO/)|[:heavy_check_mark:](./task_a/BiOnto-DPPO/)|[:heavy_check_mark:](./task_a/CEON-BiOnto/)|
+| CAMO   |        |      |[:heavy_check_mark:](./task_a/CAMO-CEO/)|[:heavy_check_mark:](./task_a/CAMO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-CAMO/)|
+| CEO    |        |      |     |[:heavy_check_mark:](./task_a/CEO-DPPO/)|[:heavy_check_mark:](./task_a/CEON-CEO/)|
+| DPPO   |        |      |     |      |[:heavy_check_mark:](./task_a/CEON-DPPO/)|
 
 #### Task b: CEON-IndusDom
 ##### Sustainability Domain
