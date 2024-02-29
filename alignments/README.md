@@ -11,7 +11,7 @@ The 6 CE-related ontologies are: BCAO, BiOnto, CAMO, CEO, DPPO and CEON. Therefo
 
 |        | BCAO | BiOnto | CAMO | CEO | DPPO | CEON |
 |--------|------|--------|------|-----|------|------|
-| BCAO   |      |        |      |     |      |      |
+| BCAO   |   :white_check_mark:   |        |      |     |      |      |
 | BiOnto |      |        |      |     |      |      |
 | CAMO   |      |        |      |     |      |      |
 | CEO    |      |        |      |     |      |      |
