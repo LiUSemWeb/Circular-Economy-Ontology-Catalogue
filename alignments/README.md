@@ -21,12 +21,27 @@ The 6 CE-related ontologies are: BCAO, BiOnto, CAMO, CEO, DPPO and CEON. Therefo
 #### Task b: CEON-IndusDom
 ##### Sustainability Domain
 For the sustainability domain, we have 5 ontologies which are BONSAIcore, ENVO, SAREF4ENVR, SAREF4ENVI, SDGIO.
+|      | BONSAIcore | ENVO | SAREF4ENVR | SAREF4ENVI | SDGIO |
+|------|------------|------|------------|------------|-------|
+| CEON |            |      |            |            |       |
 ##### Materials Doamin
 For the materials domain, we have  13 ontologies which are AMO, BUILDMAT, BWMDDomain, IOFcore, MATONTO, MDO, MPO, NMRVOCAB, PMDco, MECH, MSEO, MTO, MAMBO.
+|      | AMO | BUILDMAT | BWMDDomain | IOFcore | MATONTO | MDO | MPO | NMRVOCAB | PMDco | MECH | MSEO | MTO | MAMBO |
+|------|-----|----------|------------|---------|---------|-----|-----|----------|-------|------|------|-----|-------|
+| CEON |     |          |            |         |         |     |     |          |       |      |      |     |       |
 ##### Manufacturing Domain
 For the manufacturing domain, we have 14 ontologies which are AMO, BWMDDomain, CHAMP, COMPOSION, GPO, GRACE, IOFcore, ManuService, MSDL, MSOOFM, PSS,SAREF4INMA, VERONTO, ZBRE4K.
+|      | AMO | BWMDDomain | CHAMP | COMPOSION | GPO | GRACE | IOFcore | ManuService | MSDL | MSOOFM | PSS | SAREF4INMA | VERONTO | ZBRE4K |
+|------|-----|------------|-------|-----------|-----|-------|---------|-------------|------|--------|-----|------------|---------|--------|
+| CEON |     |            |       |           |     |       |         |             |      |        |     |            |         |        |
 ##### Product Domain
 For the product domain, we have 9 ontologies which are AMO, BONSAIcore, BPO, CHAMP, GRACE, ManuService, PRONTO, UNSPSC, VERONTO.
+|      | AMO | BONSAIcore | BPO | CHAMP | GRACE | ManuService | PRONTO | UNSPSC | VERONTO |
+|------|-----|------------|-----|-------|-------|-------------|--------|--------|---------|
+| CEON |     |            |     |       |       |             |        |        |         |
 ##### Logistics Domain
 For the logistics domain, we have 8 ontologies which are COMPOSION, GPO, IMAMO, ManuService, MSOOFM, ROMAIN, SCONTO, SCOR.
+|      | COMPOSION | GPO | IMAMO | ManuService | MSOOFM | ROMAIN | SCONTO | SCOR | VERONTO |
+|------|-----------|-----|-------|-------------|--------|--------|--------|------|---------|
+| CEON |           |     |       |             |        |        |        |      |         |
 #### Task c: CEON-EMMO
