@@ -27,7 +27,7 @@ For the sustainability domain, we have 5 ontologies which are BONSAIcore, ENVO, 
 For the materials domain, we have  13 ontologies which are AMO, BUILDMAT, BWMDDomain, IOFcore, MATONTO, MDO, MPO, NMRVOCAB, PMDco, MECH, MSEO, MTO, MAMBO.
 |      | AMO | BUILDMAT | BWMDDomain | IOFcore | MATONTO | MDO | MPO | NMRVOCAB | PMDco | MECH | MSEO | MTO | MAMBO |
 |------|-----|----------|------------|---------|---------|-----|-----|----------|-------|------|------|-----|-------|
-| CEON |     |          |            |         |         |     |     |          |       |      |      |     |       |
+| CEON |[:heavy_check_mark:](./task_b/CEON-MAT/CEON-AMO/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-BUILDMAT/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-BWMDDomain/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-IOFcore/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-MATONTO/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-MDO/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-MPO/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-NMRVOCAB/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-PMDco/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-MECH/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-MSEO/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-MTO/)|[:heavy_check_mark:](./task_b/CEON-MAT/CEON-MAMBO/)||
 ##### Manufacturing Domain
 For the manufacturing domain, we have 14 ontologies which are AMO, BWMDDomain, CHAMP, COMPOSION, GPO, GRACE, IOFcore, ManuService, MSDL, MSOOFM, PSS,SAREF4INMA, VERONTO, ZBRE4K.
 |      | AMO | BWMDDomain | CHAMP | COMPOSION | GPO | GRACE | IOFcore | ManuService | MSDL | MSOOFM | PSS | SAREF4INMA | VERONTO | ZBRE4K |
