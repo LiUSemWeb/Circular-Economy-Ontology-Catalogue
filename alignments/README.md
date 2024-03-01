@@ -44,3 +44,6 @@ For the logistics domain, we have 8 ontologies which are COMPOSION, GPO, IMAMO, 
 |------|-----------|-----|-------|-------------|--------|--------|--------|------|---------|
 | CEON |[:heavy_check_mark:](./task_b/CEON-LO/CEON-COMPOSION/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-GPO/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-IMAMO/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-ManuService/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-MSOOFM/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-ROMAIN/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-SCONTO/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-SCOR/)|[:heavy_check_mark:](./task_b/CEON-LO/CEON-VERONTO/)|
 #### Task c: CEON-EMMO
+|      | EMMO | 
+|------|------|
+| CEON | [:heavy_check_mark:](./task_c/)|
