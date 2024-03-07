@@ -1,3 +1,5 @@
+## Ontology Alignment Pipeline
+
 ### Initial and Experimental Alignment Results of CE-related Ontologies
 
 In our prior work, we have conducted a comprehensive survey of ontologies related to the CE domain and multiple cross-industry domains, and 37 ontologies were identified as presented in this [repository](http://w3id.org/CEON/catalogue).
