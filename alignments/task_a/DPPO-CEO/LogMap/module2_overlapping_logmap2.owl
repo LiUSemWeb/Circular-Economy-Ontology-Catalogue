@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://ld-ce.com/vocab/CEO#"
+     xml:base="http://ld-ce.com/vocab/CEO"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://ld-ce.com/vocab/CEO"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Locator -->
+
+    <owl:ObjectProperty rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Locator">
+        <rdfs:range rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Referent"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#agent -->
+
+    <owl:ObjectProperty rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#agent">
+        <owl:inverseOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#agentOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#agentOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#agentOf"/>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#product -->
+
+    <owl:ObjectProperty rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#product">
+        <owl:inverseOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#productOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#productOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#productOf"/>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#purpose -->
+
+    <owl:ObjectProperty rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#purpose">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Affordance"/>
+        <rdfs:range rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Affordance"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#simulatedAt -->
+
+    <owl:ObjectProperty rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#simulatedAt">
+        <rdfs:domain rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Affordance"/>
+        <rdfs:range rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Focus"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#when -->
+
+    <owl:ObjectProperty rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#when">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Focus"/>
+        <rdfs:range rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Time"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#where -->
+
+    <owl:ObjectProperty rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#where">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Focus"/>
+        <rdfs:range rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Space"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ld-ce.com/vocab/CEO#Activity -->
+
+    <owl:Class rdf:about="http://ld-ce.com/vocab/CEO#Activity">
+        <rdfs:subClassOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Affordance"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ld-ce.com/vocab/CEO#Product -->
+
+    <owl:Class rdf:about="http://ld-ce.com/vocab/CEO#Product">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#productOf"/>
+                <owl:someValuesFrom rdf:resource="http://ld-ce.com/vocab/CEO#Activity"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Referent"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Affordance -->
+
+    <owl:Class rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Affordance">
+        <rdfs:subClassOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#PlaceReference"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#agent"/>
+                <owl:someValuesFrom rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Referent"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#purpose"/>
+                <owl:someValuesFrom rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Affordance"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#simulatedAt"/>
+                <owl:someValuesFrom rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Focus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Focus -->
+
+    <owl:Class rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Focus">
+        <rdfs:subClassOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#PlaceReference"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#when"/>
+                <owl:someValuesFrom rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Time"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#where"/>
+                <owl:someValuesFrom rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Space"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Place -->
+
+    <owl:Class rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Place">
+        <rdfs:subClassOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#PlaceReference"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Locator"/>
+                <owl:someValuesFrom rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Referent"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#PlaceReference -->
+
+    <owl:Class rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#PlaceReference">
+        <owl:disjointUnionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Affordance"/>
+            <rdf:Description rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Focus"/>
+            <rdf:Description rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Place"/>
+            <rdf:Description rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Referent"/>
+            <rdf:Description rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Space"/>
+            <rdf:Description rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Time"/>
+        </owl:disjointUnionOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Referent -->
+
+    <owl:Class rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Referent">
+        <rdfs:subClassOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#PlaceReference"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Space -->
+
+    <owl:Class rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Space">
+        <owl:equivalentClass rdf:resource="http://www.opengis.net/ont/sf#Geometry"/>
+        <rdfs:subClassOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#PlaceReference"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Time -->
+
+    <owl:Class rdf:about="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#Time">
+        <owl:equivalentClass rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+        <rdfs:subClassOf rdf:resource="http://www.geographicknowledge.de/vocab/PlaceReferenceTheory#PlaceReference"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.opengis.net/ont/sf#Geometry -->
+
+    <owl:Class rdf:about="http://www.opengis.net/ont/sf#Geometry"/>
+    
+
+
+    <!-- http://www.w3.org/2006/time#Instant -->
+
+    <owl:Class rdf:about="http://www.w3.org/2006/time#Instant">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2006/time#Interval -->
+
+    <owl:Class rdf:about="http://www.w3.org/2006/time#Interval">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2006/time#TemporalEntity -->
+
+    <owl:Class rdf:about="http://www.w3.org/2006/time#TemporalEntity">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.w3.org/2006/time#Instant"/>
+                    <rdf:Description rdf:about="http://www.w3.org/2006/time#Interval"/>
+                </owl:unionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.1.3.20151118-2017) https://github.com/owlcs/owlapi -->
+

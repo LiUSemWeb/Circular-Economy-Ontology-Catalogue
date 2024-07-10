@@ -1,0 +1,4 @@
+http://w3id.org/dppo/ontology/dpp-odp/Product|http://ld-ce.com/vocab/CEO#Product|=|0.8|CLS
+http://w3id.org/dppo/ontology/dpp-prov/ValueChainActor|http://ld-ce.com/vocab/CEO#CreationActivity|=|0.4|CLS
+http://w3id.org/dppo/ontology/dpp-prov/Actor|http://ld-ce.com/vocab/CEO#Activity|=|0.4|CLS
+http://w3id.org/dppo/ontology/dpp-prov/ValueChainActor|http://ld-ce.com/vocab/CEO#PostUseActivity|=|0.4|CLS

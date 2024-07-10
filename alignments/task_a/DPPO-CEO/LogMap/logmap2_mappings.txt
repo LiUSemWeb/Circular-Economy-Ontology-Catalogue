@@ -1,0 +1,1 @@
+http://w3id.org/dppo/ontology/dpp-odp/Product|http://ld-ce.com/vocab/CEO#Product|=|0.5|CLS
