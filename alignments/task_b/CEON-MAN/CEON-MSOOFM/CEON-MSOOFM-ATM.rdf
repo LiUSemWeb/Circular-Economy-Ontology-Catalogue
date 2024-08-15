@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/Condition"/>
+      <entity2 rdf:resource="http://www.ontologies.com/Ontology3197.owl#Condition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+      <entity2 rdf:resource="http://www.ontologies.com/Ontology3197.owl#Component"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Location"/>
+      <entity2 rdf:resource="http://www.ontologies.com/Ontology3197.owl#Location"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+      <entity2 rdf:resource="http://www.ontologies.com/Ontology3197.owl#Element"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Composition"/>
+      <entity2 rdf:resource="http://www.ontologies.com/Ontology3197.owl#Configuration"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Situation"/>
+      <entity2 rdf:resource="http://www.ontologies.com/Ontology3197.owl#Position"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
