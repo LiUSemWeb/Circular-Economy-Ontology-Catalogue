@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/NonMetalMaterial"/>
+      <entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/domain#BWMD_00711"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.781704</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/ProcessExecution"/>
+      <entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/domain#BWMD_00460"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9365169443563078</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/MetalMaterial"/>
+      <entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/domain#BWMD_00514"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.753786</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/ChemicalFinishing"/>
+      <entity2 rdf:resource="https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/domain#BWMD_00726"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6281549999999999</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
