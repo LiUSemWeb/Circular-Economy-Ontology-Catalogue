@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Person"/>
+      <entity2 rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+      <entity2 rdf:resource="https://w3id.org/bpo#Entity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9821729440099096</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/capabilityProperty"/>
+      <entity2 rdf:resource="http://schema.org/additionalProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="https://w3id.org/seas/hasProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="https://w3id.org/bpo#hasList2D"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.627</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="https://w3id.org/bpo#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="https://w3id.org/bpo#connectsInputOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7105263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#entity"/>
+      <entity2 rdf:resource="https://w3id.org/bpo#isComposedOfEntity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Attribution"/>
+      <entity2 rdf:resource="https://w3id.org/bpo#Attribute"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7252740000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProperty"/>
+      <entity2 rdf:resource="https://w3id.org/seas/Property"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6732803551608748</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+      <entity2 rdf:resource="https://w3id.org/bpo#Product"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/cvn/aimsAtValue"/>
+      <entity2 rdf:resource="http://schema.org/value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

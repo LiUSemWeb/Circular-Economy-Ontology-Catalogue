@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/resultingProduct"/>
+      <entity2 rdf:resource="http://purl.org/net/pronto/Pronto.owl#hasProducts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7777777777777778</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/ChemicalEntity"/>
+      <entity2 rdf:resource="http://purl.org/net/pronto/Pronto.owl#ProductAbstraction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.705672</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://purl.org/net/pronto/Pronto.owl#hasRestriction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6617512953367877</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="http://purl.org/net/pronto/Pronto.owl#isTypeOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6593864149240258</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/ResourceRelation"/>
+      <entity2 rdf:resource="http://purl.org/net/pronto/Pronto.owl#Relation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6030227379073981</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+      <entity2 rdf:resource="http://purl.org/net/pronto/Pronto.owl#Product"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasUnit"/>
+      <entity2 rdf:resource="http://purl.org/net/pronto/Pronto.owl#has"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7875000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasReuseDeconstructability"/>
+      <entity2 rdf:resource="http://purl.org/net/pronto/Pronto.owl#hasStructure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6141315789473685</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/neededResourceRelation"/>
+      <entity2 rdf:resource="http://purl.org/net/pronto/Pronto.owl#relationType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

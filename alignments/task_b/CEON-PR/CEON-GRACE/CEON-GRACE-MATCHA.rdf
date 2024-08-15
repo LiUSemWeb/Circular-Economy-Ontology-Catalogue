@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/permanentPress"/>
+      <entity2 rdf:resource="http://www.grace-ontology.com#Bearing_Insertion2"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7222500000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/permanentPress"/>
+      <entity2 rdf:resource="http://www.grace-ontology.com#Property_Speed"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7222500000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/permanentPress"/>
+      <entity2 rdf:resource="http://www.grace-ontology.com#Bearing_Insertion1"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7222500000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/shearing"/>
+      <entity2 rdf:resource="http://www.grace-ontology.com#Bbearing"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6024193548387097</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/permanentPress"/>
+      <entity2 rdf:resource="http://www.grace-ontology.com#Seal_Insertion2"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7222500000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/shearing"/>
+      <entity2 rdf:resource="http://www.grace-ontology.com#Abearing"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6024193548387097</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/permanentPress"/>
+      <entity2 rdf:resource="http://www.grace-ontology.com#Seal_Insertion1"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7222500000000001</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

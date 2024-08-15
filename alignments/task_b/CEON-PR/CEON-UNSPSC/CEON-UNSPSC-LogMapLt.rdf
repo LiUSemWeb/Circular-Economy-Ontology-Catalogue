@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</onto1>
+<onto2></onto2>
+<uri1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</uri1>
+<uri2></uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+		<entity2 rdf:resource="file:/tmp/MELT-fileupload4880312103133057625/target-2095794164219580978.rdfs#Energy_work"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/UsingResource"/>
+		<entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Resource"/>
+		<entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/embossing"/>
+		<entity2 rdf:resource="file:/tmp/MELT-fileupload4880312103133057625/target-2095794164219580978.rdfs#Embossing"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/resins"/>
+		<entity2 rdf:resource="file:/tmp/MELT-fileupload4880312103133057625/target-2095794164219580978.rdfs#Resins"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

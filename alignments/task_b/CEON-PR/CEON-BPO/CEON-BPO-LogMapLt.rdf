@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</onto1>
+<onto2>https://w3id.org/bpo</onto2>
+<uri1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</uri1>
+<uri2>https://w3id.org/bpo</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#Person"/>
+		<entity2 rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+		<entity2 rdf:resource="http://schema.org/ProductModel"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+		<entity2 rdf:resource="https://w3id.org/bpo#Entity"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+		<entity2 rdf:resource="https://w3id.org/seas/hasProperty"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+		<entity2 rdf:resource="https://w3id.org/bpo#isPartOf"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+		<entity2 rdf:resource="https://w3id.org/bpo#isPartOf"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

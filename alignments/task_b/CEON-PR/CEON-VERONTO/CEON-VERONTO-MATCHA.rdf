@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimension"/>
+      <entity2 rdf:resource="https://ontohub.org/veronto/veronto_v04-18.owl#HasVersion"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7235059625212947</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Attribution"/>
+      <entity2 rdf:resource="https://ontohub.org/veronto/veronto_v04-18.owl#Attribute"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7252740000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/decommissionReason"/>
+      <entity2 rdf:resource="https://ontohub.org/veronto/veronto_v04-18.owl#Reason"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6876</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProductType"/>
+      <entity2 rdf:resource="https://ontohub.org/veronto/veronto_v04-18.owl#ChangeEventType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6762689999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="https://ontohub.org/veronto/veronto_v04-18.owl#HasSpecification"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7589091673675359</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasResistanceToEarth"/>
+      <entity2 rdf:resource="https://ontohub.org/veronto/veronto_v04-18.owl#HasHistory"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6379117824773415</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+      <entity2 rdf:resource="https://ontohub.org/veronto/veronto_v04-18.owl#Activity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="https://ontohub.org/veronto/veronto_v04-18.owl#IsSpecificationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7237241442097597</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

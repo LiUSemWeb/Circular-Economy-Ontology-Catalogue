@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/coating"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Coating_machines"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6091240585560397</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/embossing"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Embossing_tools"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6664680000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/steaming"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Steaming_machinery"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6463013787260258</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/quantitykind/Time"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Time_kits"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6031384615384616</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/quantitykind/Resistance"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Resistors"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6899904000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/embossing"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Embossing"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9823629121309834</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/MIN"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Mines"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.646866</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/composition_a"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Photocomposition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6259733333333333</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/inkjetPrinted"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Inkjet_printers"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.731808</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Generation"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Power_generation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6237860243441496</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/user"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Fusers"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.627264</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/resins"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Resins"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/steaming"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Steam_cleaning"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.655776</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/digitalPrinted"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Digital_printing"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7354129655172414</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/quantitykind/Resistance"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Resistance_tubes"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.675515076923077</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/incineration"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Incinerators"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6830208</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/certified"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Rectifiers"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6457129411764706</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/permanentPress"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Permanent_structures"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6158739222030982</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/OHM-M"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Ohmmeters"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6659766931407942</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/mattingAgent"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Wetting_agents"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6036668263473054</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/speaker_x"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Speakers"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6711330471486305</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/NUM"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Number_kits"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6131011764705883</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/coating"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Coating_services"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7114366840725465</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/quantitykind/Resistance"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Resistance_bands"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.675515076923077</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/waterproof"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Water"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.627264</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/silicones"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Silicone_foam"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6128832210065647</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/collector"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Collector_hobby_club"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6056342068965517</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/CentiM"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Centimeter_cubes"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6345747692307693</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Resource"/>
+      <entity2 rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.988084440013064</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/coating"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Coating_paints"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.627264</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/quantitykind/Area"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Area_rugs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6031384615384616</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/rollerPrinted"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Roller_bearings"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6061062857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/anti-pilling"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Antigalling"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6345749607124149</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/composition_a"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Composition_leather"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6453215999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/public"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Public_finance"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6664680000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/certified"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Certificates"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6602778947368422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/collector"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Air_collectors"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6136278260869565</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/manufacturer"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Manufacture"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7636257391304349</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/SEC"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Secondary"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7623</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/permanentPress"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Permanent_pens"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.612299823830659</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/naturalOiling"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Natural_oils"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6920358260869566</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/flameRetardant"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Flame_retardants"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7689042580645162</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/MIN"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Mink"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7056720000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/quantitykind/Volume"/>
+      <entity2 rdf:resource="file:/tmp/MELT-fileupload698968545682652774/target-6927419206517802229.rdfs#Volumeters"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6664680000000001</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
