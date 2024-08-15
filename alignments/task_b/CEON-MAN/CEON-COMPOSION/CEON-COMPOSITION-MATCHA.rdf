@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/seller"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#Reseller"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6720685714285715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_a"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_C_Operation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.600624</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_y"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_B"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasSystemWeight"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#weight"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7626315789473684</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/capabilityProperty"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#quantitativeProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7777777777777778</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Location"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#Location"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_x"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_A"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Materials"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7564065882352942</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#hasPOS"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7218260869565217</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/cvn/relatedStrategy"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#hasRelatedOperation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.719474060822898</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_y"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_D"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Person"/>
+      <entity2 rdf:resource="http://schema.org/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasTextileManufacturingProcess"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#hasManufacturer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6658531265887139</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_x"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_C"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/provider"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Provider_A_Service"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.614592</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#hasTransportCost"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#hasBrand"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6132401685393258</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasWidth"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#width"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+      <entity2 rdf:resource="http://www.owl-ontologies.com/mason.owl#Entity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9870733668746674</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/seller"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#Sell"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6899904000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_b"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_B"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/reseller"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#Reseller"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_a"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_B_Operation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.600624</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/provider"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Provider_Offer_A"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.642528</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasQuantityKind"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#hasEligibleQuantity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8093736263736264</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_x"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_D"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_b"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_C"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_b"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_B_Service"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6894876264376897</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/buyer"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#Buy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.646866</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_a"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_A_Service"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6393267692307693</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/dismantling_company_b"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_B"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6006894882673497</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_a"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_B"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_b"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_B_Operation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6664680000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/isSettingFor"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#isConsumableFor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6501494252873563</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/weightFractionOfDisclosedSubstances"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#weight"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6235714285714284</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://www.owl-ontologies.com/mason.owl#isLocatedIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8400000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_a"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_D"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/provider"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Provider_A"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9602999999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#entity"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#seeksEntity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_y"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_C"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/siteName"/>
+      <entity2 rdf:resource="http://schema.org/name"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7546153846153846</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductDescription"/>
+      <entity2 rdf:resource="http://schema.org/description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.813</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_x"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_B"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_a"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_A_Operation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.653004</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/DescriptiveFormula"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#hasDescription"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6507692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_b"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_A"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasHeight"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#height"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Capability"/>
+      <entity2 rdf:resource="http://www.composition-project.eu/ontologies/MSDL#Capability"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#value"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#hasValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/capabilityExtent"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#hasCapability"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.868</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_a"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_A"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/provider"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Provider_A_Operation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6292800000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_a"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_D_Operation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.600624</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+      <entity2 rdf:resource="http://schema.org/Product"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_b"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_D"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ManufacturingProcess"/>
+      <entity2 rdf:resource="http://www.owl-ontologies.com/mason.owl#ManufacturingOperation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7938810000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Agent"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#BusinessEntity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.792</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Organization"/>
+      <entity2 rdf:resource="http://schema.org/Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductID"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#productID"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6811901913875598</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasWaterProperty"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#hasOperation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7008636363636365</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductionSite"/>
+      <entity2 rdf:resource="http://schema.org/productID"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6624131627056672</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_a"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_C"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasPrintStuff"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#hasPrice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6514178942807627</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="http://purl.org/goodrelations/v1#isVariantOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6015343317743058</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/company_y"/>
+      <entity2 rdf:resource="http://www.composition-project/ontologies/COMPOSITIONv01#Company_A"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7176549314079422</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
