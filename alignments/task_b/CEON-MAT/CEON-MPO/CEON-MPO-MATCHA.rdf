@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/TakeBackProcess"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#FilmProtectionMaterial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6174630000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/MetalMaterial"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#InsulationMaterial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6615675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/siteName"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#name"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7546153846153846</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/hasMaterialComponent"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#hasMaterial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8964705882352941</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#value"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileDataSheet"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#FibreCementBoard"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6174630000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#Material"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasConstituent"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#hasMaterialConstituent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9101538461538462</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#hasProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasWaterProperty"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#hasPropertySet"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.841428899327426</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProperty"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#Property"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6820631116178714</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductDescription"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.813</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Constituent"/>
+      <entity2 rdf:resource="http://bimerr.iot.linkeddata.es/def/material-properties#MaterialConstituent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6766284033100044</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

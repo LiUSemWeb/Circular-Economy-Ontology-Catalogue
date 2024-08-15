@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</onto1>
+<onto2>https://w3id.org/mdo/full/</onto2>
+<uri1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</uri1>
+<uri2>https://w3id.org/mdo/full/</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/Quantity"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/QuantityValue"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/Quantity"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/QuantityKind"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/Quantity"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/Quantity"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/QuantityValue"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/QuantityValue"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/QuantityValue"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/QuantityKind"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/QuantityValue"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/Quantity"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/QuantityKind"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/QuantityValue"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/QuantityKind"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/QuantityKind"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/QuantityKind"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/Quantity"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/Unit"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/Unit"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#Agent"/>
+		<entity2 rdf:resource="http://www.w3.org/ns/prov#Agent"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#SoftwareAgent"/>
+		<entity2 rdf:resource="http://www.w3.org/ns/prov#SoftwareAgent"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+		<entity2 rdf:resource="https://w3id.org/mdo/core/Material"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Composition"/>
+		<entity2 rdf:resource="https://w3id.org/mdo/structure/Composition"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/DescriptiveFormula"/>
+		<entity2 rdf:resource="https://w3id.org/mdo/structure/DescriptiveFormula"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/HillFormula"/>
+		<entity2 rdf:resource="https://w3id.org/mdo/structure/HillFormula"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/material/AnonymousFormula"/>
+		<entity2 rdf:resource="https://w3id.org/mdo/structure/AnonymousFormula"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/numericalValue"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/numericalValue"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#wasAttributedTo"/>
+		<entity2 rdf:resource="http://www.w3.org/ns/prov#wasAttributedTo"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/hasUnit"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/unit"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/product/hasComposition"/>
+		<entity2 rdf:resource="https://w3id.org/mdo/structure/hasComposition"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/hasQuantityKind"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/quantityValue"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/hasQuantityKind"/>
+		<entity2 rdf:resource="https://w3id.org/mdo/core/hasQuantityValue"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/hasQuantityKind"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/hasQuantityKind"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/quantityValue"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/quantityValue"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/quantityValue"/>
+		<entity2 rdf:resource="https://w3id.org/mdo/core/hasQuantityValue"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://qudt.org/schema/qudt/quantityValue"/>
+		<entity2 rdf:resource="http://qudt.org/schema/qudt/hasQuantityKind"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

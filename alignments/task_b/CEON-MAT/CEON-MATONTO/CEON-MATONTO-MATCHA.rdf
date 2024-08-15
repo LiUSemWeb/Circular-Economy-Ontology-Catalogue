@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/CatalystMaterial"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/Catalyst"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6369534078916845</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductQuality"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasQuality"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9024</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/isQualityOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7804051131884221</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+      <entity2 rdf:resource="http://www.ifomis.org/bfo/1.0/snap#Role"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participationEndTime"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/ends"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7875000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasMatter"/>
+      <entity2 rdf:resource="http://matonto.org/ontologies/matonto#hasMass"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.727170731707317</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/ProductQuality"/>
+      <entity2 rdf:resource="http://www.ifomis.org/bfo/1.0/snap#Quality"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6657970050281561</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="http://www.ifomis.org/bfo/1.0/span#Process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Information"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/Information"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9879257371157044</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/isLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+      <entity2 rdf:resource="http://www.ifomis.org/bfo/1.0#Entity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9870341126572717</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="http://matonto.org/ontologies/matonto#hasPhase"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6524174573055029</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/isSettingFor"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/isReferenceFor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.607631506849315</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasUnit"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasUnit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasContaminant"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasEnantiomer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6170593163288204</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+      <entity2 rdf:resource="http://matonto.org/ontologies/matonto#Material"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/cvn/relatedStrategy"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/isRelatedTo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8287826086956521</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/Product"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasCondition"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasConformer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7149273847302595</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimension"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasDisposition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7020110701107012</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/AlkaliMetal"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/AlkaliMetal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.989820925423659</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Process"/>
+      <entity2 rdf:resource="http://www.ifomis.org/bfo/1.0/span#Process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/AlkalineEarthMetal"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/AlkalineEarthMetals"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#entity"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasAgent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/DerivedUnit"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/DerivedUnit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/ProductObject"/>
+      <entity2 rdf:resource="http://www.ifomis.org/bfo/1.0/snap#Object"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6354630761055847</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/Energy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/Unit"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/Unit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/TransitionalMetal"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/TransitionMetal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7564065882352942</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/NonMetalMaterial"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/NonMetal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7262093077213466</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+      <entity2 rdf:resource="http://www.ifomis.org/bfo/1.0/snap#Role"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#hadRole"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasRole"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/occursInLocation"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/isSpatioTemporalLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.75</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/ProcessType"/>
+      <entity2 rdf:resource="http://matonto.org/ontologies/matonto#StructureType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6543535184146211</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasUnit"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/isUnitOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/siteName"/>
+      <entity2 rdf:resource="http://matonto.org/ontologies/matonto#hasName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7546153846153846</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasTag"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6931556603773585</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#entity"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/isAgentIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/ChemicalSubstance"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/ChemicalSubstance"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#wasDerivedFrom"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/derivesFrom"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7968455821635012</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#value"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/occursInLocation"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/isSpatialLocationOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.75</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="http://matonto.org/ontologies/matonto#hasComponentProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8964705882352941</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/chemicalCompliance"/>
+      <entity2 rdf:resource="http://matonto.org/ontologies/matonto#hasChemicalSymbol"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6610429906542057</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasWaterProperty"/>
+      <entity2 rdf:resource="http://ontology.dumontierlab.com/hasAtomicProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8271017257909876</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

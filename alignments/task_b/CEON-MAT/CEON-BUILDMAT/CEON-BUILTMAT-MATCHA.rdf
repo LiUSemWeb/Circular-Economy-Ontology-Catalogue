@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProperty"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#MaterialProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7938810000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Constituent"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#Constituent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasSystemWeight"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasMolecularWeight"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7329279279279279</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProductObject"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#MaterialChemicalProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7056720000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#hasMarketValue"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasLowerHeatingValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6306551594746717</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasUnit"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasUnit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/numericalValue"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6975</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasCondition"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasAcidityConcentration"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6756820984130609</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasLayers"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.627</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasHardness"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6972942331288343</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/ActorType"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#MaterialType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6615675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasPorosity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6524174573055029</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/MetalMaterial"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#MetallicMaterial"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7938810000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#Material"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasResistanceToEarth"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasThermalResistivity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6055831265508685</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/hasMaterialComponent"/>
+      <entity2 rdf:resource="https://w3id.org/digitalconstruction/BuildingMaterials#hasMaterialName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7878407310704961</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

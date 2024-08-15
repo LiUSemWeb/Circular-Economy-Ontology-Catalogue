@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participantRole"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/has_participant"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9291428571428572</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_output"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Organization"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessExecution"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/process_precedes"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6223938294010889</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/occursInLocation"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/occurs_on"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8576470588235294</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessType"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_process_part"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8308306451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#used"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/caused_by"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7200000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/usesCathalyst"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/uses"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_input"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#agent"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_agent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ManufacturingProcess"/>
+      <entity2 rdf:resource="https://github.com/iofoundry/Core/ManufacturingProcess"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingSubject"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/is_subject_of"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7391304347826086</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_accessory"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6793695652173913</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/has_part"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/DerivedUnit"/>
+      <entity2 rdf:resource="https://qudt.org/2.1/schema/qudt/DerivedUnit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/is_made_of"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6593864149240258</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#wasDerivedFrom"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/derives_into"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6234664246823955</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participationIn"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/participates_in"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8471065040041913</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+      <entity2 rdf:resource="https://gitlab.com/kupferdigital/ontologies/Mechanical_Testing_Ontology/Energy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/has_function"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7188648648648648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductQuality"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/has_quality"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9024</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/containsInformation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/contains"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#wasStartedBy"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/process_started_by"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7906944444444445</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

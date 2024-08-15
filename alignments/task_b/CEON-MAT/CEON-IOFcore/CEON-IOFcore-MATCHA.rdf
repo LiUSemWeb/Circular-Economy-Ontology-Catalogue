@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#hadRole"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/hasRole"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Agent"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Agent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9890595897584213</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ActorResourceRole"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/MaterialResourceRole"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7350750000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimension"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/hasDisposition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7020110701107012</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/AdhesiveMaterial"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/MaterialArtifact"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.705672</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/SellResourceProcess"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/SellingBusinessProcess"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6762689999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/dateOfInstallation"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/hasDateTimeInstantValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6100725868725869</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isAbout"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/isAbout"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingObject"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000056"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000124"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000115"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8942608695652174</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Information"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/InformationContentEntity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8316</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/ProductObject"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000030"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6188376487606466</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000054"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Organization"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9846253435459026</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/ProcessExecution"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/ComputingProcess"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.705672</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Capability"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Capability"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/BuyResourceProcess"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/BuyingBusinessProcess"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6762689999999999</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasResistanceToEarth"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000185"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6379117824773415</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/PhysicalObject"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000029"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.673596</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProduct"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/MaterialProduct"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7938810000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessType"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/hasProcessCharacteristic"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7534058823529411</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/ChemicalEntity"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.753786</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000057"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8149565217391305</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/ProductQuality"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6560243278492249</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ManufacturingProcess"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/ManufacturingProcess"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/capabilityExtent"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/hasCapability"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.868</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/MaterialComponent"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/MaterialComponent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/hasOutput"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductQuality"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/hasQuality"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9024</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/occursInLocation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000066"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9130434782608696</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Person"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/capabilityOf"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/capabilityOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/isInputOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingSubject"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/isSubjectOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7391304347826086</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/AssemblingProcess"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/AssemblyProcess"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7168531764705883</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/PrintingProcess"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/BusinessProcess"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7938810000000001</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

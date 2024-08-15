@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasUnit"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_subunit"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8703157894736842</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasSystemWeight"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_molecular_system"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7329279279279279</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasWaterProperty"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_property"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9168000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProperty"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#MaterialProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7938810000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasReuseDeconstructability"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_structure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6141315789473685</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#Material"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#is_atom_of"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6593864149240258</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimension"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_ensemble"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6251169501466276</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_computational_input"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.875</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/ProductQuality"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#ChemicalProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.705672</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasRecyclingPotential"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_interaction_potential"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.722568968989126</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/numberOfRecyclingCycles"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#number_of_molecules"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6847141463414634</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_computational_output"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.875</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#Process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/AnonymousFormula"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#formula"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8888888888888888</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/MaterialComponent"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#PotentialComponent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6615675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/hasMaterialComponent"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_component"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9044571428571428</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#has_thermostat"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6137335203366059</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="https://raw.githubusercontent.com/daimoners/MAMBO/master/mambo.owl#is_part_of"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
