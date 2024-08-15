@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/ProductObject"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000030"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6197203207389518</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002569"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8769230769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/actorType"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002200"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6182084398976981</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasHeight"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000219"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8280000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/modelledBy"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002615"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7753846153846154</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/basedOnCapability"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0001016"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6585793871866295</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasHeight"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000169"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8280000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasTextileProductType"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002214"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6656943772300374</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000051"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasCondition"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0003303"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.82026</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Organization"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000007"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.964352385924039</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#wasDerivedFrom"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002156"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8370000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#activity"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002481"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/batchOfProduct"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002204"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.749620176442858</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessExecution"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002018"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7611801497732307</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000003"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9614086857084156</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/Availability"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000611"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6076438479173838</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000930"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.741</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#hasTestingCost"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002454"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6902144833948339</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/cvn/createsValue"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0008505"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6378347107438017</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#specializationOf"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000418"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6939622699230102</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ServiceProcess"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000094"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6464160630998936</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#atLocation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002360"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/producesCO2"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0003000"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8856</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/capabilityProperty"/>
+      <entity2 rdf:resource="http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/occursInLocation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000066"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9130434782608696</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessType"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000995"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7954071428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participationIn"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002574"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6860377358490567</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingSubject"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002462"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7721389076196898</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ManufacturingProcess"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000971"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6093322202911824</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasTextileManufacturingProcess"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000984"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.758663222974209</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#wasGeneratedBy"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002005"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6313023399014779</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#hadActivity"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002432"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6666666666666666</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#agent"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002500"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8333333333333334</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#hadRole"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002260"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8181818181818182</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/hasProductComponent"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002180"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9091764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasMatter"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000053"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6343846153846153</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000929"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.741</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/capabilityExtent"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000924"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6728761835396941</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Communication"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0001057"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.619297463168702</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0001015"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasResistanceToEarth"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002231"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6123234111021723</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/Unit"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000229"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9322816159727745</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participantRole"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002218"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8390961408259986</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000054"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8584615384615385</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/hasComposition"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002016"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6665513513513515</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002234"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#wasAttributedTo"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002376"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002353"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasConstituent"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002017"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8888888888888888</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDistanceToRecyclingPlant"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0001023"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.783293023255814</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasRecyclingPotential"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002384"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6922503345118303</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isAbout"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasUnit"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000039"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8064</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasPrintMethod"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002557"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6090082417582416</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasDimensionVector"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002460"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.888</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002464"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7943478260869565</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasPreConsumerRecycledContentAmount"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/R0_0009004"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7264615384615385</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/resultingProduct"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002205"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6363636363636364</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#hasTransportCost"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002243"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7319561923454367</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/hasMaterialComponent"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000770"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7802920353982301</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/capabilityOf"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000768"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002352"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#influenced"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002559"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7943478260869565</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductQuality"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000086"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9024</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Process"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/modelledBy"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0003301"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7753846153846154</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasSystemWeight"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000190"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7009153678077205</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/cvn/composedOf"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8307692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasWidth"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000185"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8389285714285715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/ProductQuality"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6271340912881286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002233"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimension"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000091"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7020110701107012</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasQuantityKind"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000166"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.637400831401391</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasMatter"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002505"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6343846153846153</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#qualifiedUsage"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000080"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.63</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingObject"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Capability"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000009"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasHeight"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000730"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8280000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#agent"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002608"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8333333333333334</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/isSettingFor"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002607"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6501494252873563</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+      <entity2 rdf:resource="http://infoneer.txstate.edu/ontology/MSDL_0000034"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/hasChemicalEntity"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002262"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8529393346379648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#hadRole"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002261"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8181818181818182</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/isSettingFor"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002459"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6501494252873563</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
