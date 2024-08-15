@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://ontorion.com/namespace#</onto1>
+<onto2>http://w3id.org/dppo/ontology/dpp-comp/</onto2>
+<uri1>http://ontorion.com/namespace#</uri1>
+<uri2>http://w3id.org/dppo/ontology/dpp-comp/</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Material"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-core/Material"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#ConsumerGood"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-prov/Consumer"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Consumer"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-prov/Consumer"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#Product"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/Product"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#hasPartIn"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/hasPart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#hasPartIn"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-comp/aboutPart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#isPartOf"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/hasPart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#isPartOf"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-comp/aboutPart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#hasPart"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/hasPart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#hasPart"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-comp/aboutPart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://ontorion.com/namespace#describes"/>
+		<entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/describes"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>

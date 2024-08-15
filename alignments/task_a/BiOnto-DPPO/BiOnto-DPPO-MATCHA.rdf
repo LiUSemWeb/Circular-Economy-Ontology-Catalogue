@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#Product"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/Product"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#Quality"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-info/ProductQuality"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6619734893879528</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#isPartOf"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-comp/aboutPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#hasPartIn"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#isPartOf"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#hasPartIn"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-comp/aboutPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#has"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-info/hasCompositionInformation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6092727272727274</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#describes"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/describes"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#hasPart"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-comp/aboutPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#Consumer"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-prov/Consumer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.986673045106021</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#ValueChain"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-prov/ValueChainActor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6797344423345144</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#hasPart"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-odp/hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#has"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-info/0.1/hasCompositionInformation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6092727272727274</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#reactsWith"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-prov/responsibleActor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6347368421052632</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#Material"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-core/Material"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://ontorion.com/namespace#contains"/>
+      <entity2 rdf:resource="http://w3id.org/dppo/ontology/dpp-info/containsInformation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
