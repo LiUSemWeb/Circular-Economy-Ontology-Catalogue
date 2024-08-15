@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessExecution"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4ener/hasExpression"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6223160854893138</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#atTime"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasTimestamp"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6923076923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasCondition"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4ener/hasConnection"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8317065868263473</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7188648648648648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductDescription"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasDescription"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9145263157894737</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/actorType"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4ener/hasEnergyValueType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6360270511140236</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#hasMarketValue"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4ener/hasValueType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7814347826086956</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/capabilityProperty"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/isPropertyOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.875</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/provenance/Statement"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/State"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isAbout"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/isAbout"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/isCommandOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6015343317743058</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasConstituent"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/consistsOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.648</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasWaterProperty"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9168000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#used"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/isUsedFor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/hasComposition"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4ener/hasFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6617512953367877</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/provenance/statementAbout"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasState"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimensionalDeviation"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4ener/hasDevice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6216540130151844</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ServiceProcess"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/Service"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6717185422644814</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessType"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4ener/hasPowerValueType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6589714285714287</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasTakeBackProgramOtherManufacturer"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasManufacturer"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.768</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimension"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasTime"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7592132701421802</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/SurfaceFinishMaterial"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/OpenCloseState"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6174630000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/Energy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProperty"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/Property"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6924765919426585</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#value"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasPrice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6524174573055029</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/needsEnergy"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4ener/hasEnergy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasTextileManufacturingProcess"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/hasProfile"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.623921643681396</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

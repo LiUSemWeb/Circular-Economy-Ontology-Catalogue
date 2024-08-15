@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#End"/>
+      <entity2 rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#Point"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/Color"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4envi/Color"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/KiloM"/>
+      <entity2 rdf:resource="http://www.wurvoc.org/vocabularies/om-1.8/kilometre"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+      <alignapilocalns:SimilarTypeFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:SimilarTypeFilter_confidence>
+      <alignapilocalns:CosineSimilarityConfidenceMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:CosineSimilarityConfidenceMatcher_confidence>
+      <alignapilocalns:SimilarNeighboursFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:SimilarNeighboursFilter_confidence>
+      <alignapilocalns:CommonPropertiesFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:CommonPropertiesFilter_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/DeciM"/>
+      <entity2 rdf:resource="http://www.wurvoc.org/vocabularies/om-1.8/decimetre"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+      <alignapilocalns:SimilarTypeFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:SimilarTypeFilter_confidence>
+      <alignapilocalns:CosineSimilarityConfidenceMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:CosineSimilarityConfidenceMatcher_confidence>
+      <alignapilocalns:SimilarNeighboursFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:SimilarNeighboursFilter_confidence>
+      <alignapilocalns:CommonPropertiesFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:CommonPropertiesFilter_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/PhysicalObject"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4envi/PhysicalObject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.9</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/M"/>
+      <entity2 rdf:resource="http://www.wurvoc.org/vocabularies/om-1.8/metre"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.9</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+      <alignapilocalns:SimilarTypeFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:SimilarTypeFilter_confidence>
+      <alignapilocalns:CosineSimilarityConfidenceMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.14433756729740646</alignapilocalns:CosineSimilarityConfidenceMatcher_confidence>
+      <alignapilocalns:SimilarNeighboursFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:SimilarNeighboursFilter_confidence>
+      <alignapilocalns:CommonPropertiesFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:CommonPropertiesFilter_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/CentiM"/>
+      <entity2 rdf:resource="http://www.wurvoc.org/vocabularies/om-1.8/centimetre"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+      <alignapilocalns:SimilarTypeFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:SimilarTypeFilter_confidence>
+      <alignapilocalns:CosineSimilarityConfidenceMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:CosineSimilarityConfidenceMatcher_confidence>
+      <alignapilocalns:SimilarNeighboursFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:SimilarNeighboursFilter_confidence>
+      <alignapilocalns:CommonPropertiesFilter_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.0</alignapilocalns:CommonPropertiesFilter_confidence>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

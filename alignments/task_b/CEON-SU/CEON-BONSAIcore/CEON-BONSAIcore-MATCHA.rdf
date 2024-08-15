@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/actorType"/>
+      <entity2 rdf:resource="http://purl.org/dc/terms/type"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7328571428571429</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasWaterProperty"/>
+      <entity2 rdf:resource="http://ontology.bonsai.uno/core#hasPropertyType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8271017257909876</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+      <entity2 rdf:resource="http://ontology.bonsai.uno/core#Activity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="http://ontology.bonsai.uno/core#isOutputOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/Quantity"/>
+      <entity2 rdf:resource="http://www.ontology-of-units-of-measure.org/resource/om-2/Quantity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9815384966288135</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://ontology.bonsai.uno/core#hasLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#objectValue"/>
+      <entity2 rdf:resource="http://ontology.bonsai.uno/core#hasObjectType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6699873123936253</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/capabilityProperty"/>
+      <entity2 rdf:resource="http://ontology.bonsai.uno/core#hasBalanceableProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7777777777777778</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Agent"/>
+      <entity2 rdf:resource="http://ontology.bonsai.uno/core#Agent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9815384966288135</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Location"/>
+      <entity2 rdf:resource="http://schema.org/location"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="http://ontology.bonsai.uno/core#isInputOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
