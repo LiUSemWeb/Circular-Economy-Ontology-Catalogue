@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4inma/Item"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/PhysicalObject"/>
+      <entity2 rdf:resource="https://saref.etsi.org/saref4bldg/PhysicalObject"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.9</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+      <entity2 rdf:resource="https://saref.etsi.org/core/Function"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
