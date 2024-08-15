@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#is_part_of"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#hasPartIn"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#is_part_of"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#isPartOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#has_connection"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#connects"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8228571428571428</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#has_material_mass"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#hasMass"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.813953488372093</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#Material"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#Material"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#manufactures"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#reactsWith"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#connection_is"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#isConnectedTo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6811901913875598</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#has_company_name"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#hasName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.888</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#is_manufactured_by"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#isCultivatedBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6106441893830703</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#produces"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#produces"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#is_produced_by"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#isProducedFrom"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#Service"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#Service"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9837610066530685</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#is_part_of"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#hasPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#is_made_of"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#isMadeBy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#is_made_of"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#isMadeOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#Product"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#Product"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#has_product_name"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#hasName"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.888</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="https://github.com/linmor-sys/BCAO.owl#has_fixing"/>
+      <entity2 rdf:resource="http://ontorion.com/namespace#has"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7584230769230769</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
