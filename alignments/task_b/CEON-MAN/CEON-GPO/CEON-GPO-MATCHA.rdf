@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/quantityValue"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_8ef3cd6d_ae58_4a8d_9fc0_ad8f49015cd0"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasConstituent"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_dba27ca1_33c9_4443_a912_1519ce4c39ec"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Collection"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_2d2ecd97_067f_4d0e_950c_d746b7700a31"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_2d23e608_57f5_4d0d_ba4e_c06ab274e101"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6524174573055029</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasFinishing"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_51e72e5c_ab21_4d0e_ad9f_b168eca89cf4"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6793695652173913</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasReuseDeconstructability"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_39c3815d_8cae_4c8f_b2ff_eeba24bec455"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6119501108647449</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_8c869b47_a258_43b9_9c75_4285a80a1dfb"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_17e27c22_37e1_468c_9dd7_95e137f73e7f"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasColor"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_e1805abe_f5b7_4c40_810a_1a01950546be"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6247734402029754</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/provenance/Statement"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_d9589ed2_5304_48b3_9795_11bf44e64e9b"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8811</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingObject"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_7329967c_3972_4c99_b478_84f66436620d"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7142857142857143</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_c4bace1d_4db0_4cd3_87e9_18122bae2840"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_4f226cf3_6d02_4d35_8566_a9e641bc6ff3"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/neededResourceRelation"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_646cdc47_f955_4da3_9398_9aac0edf48a6"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.75</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="http://emmo.info/emmo/perspectives/manufacturing#EMMO_36e69413_8c59_4799_946c_10b05d266e22"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/ChemicalEntity"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_47338839_6cca_4a8e_b565_3c4d5517e2c0"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#a8bd7094_6b40_47af_b1f4_a69d81a3afbd"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessExecution"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_389686f5_86d8_4e97_ba71_0537bedf0f38"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6520159883720931</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_82fc8506_1f84_4add_9683_abea077bd1e3"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_703ec528_ea40_486e_9924_b911782b1a75"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPhysicalObject"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_25f1a7da_895c_4d9b_b688_95b7deed7a80"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8929655172413793</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Information"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_64c72d00_7582_44ea_a0b5_3a14e50acc36"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_70da982d_1810_4b01_9630_a28e216ecd9a"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6524174573055029</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductQuality"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_0ee9e6a2_9240_4b1d_ac9a_f72416c7dc70"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8060845588235295</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/DerivedUnit"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_08b308d4_31cd_4779_a784_aa92fc730f39"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/modelledBy"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_b8f79e53_2ad4_441d_87ff_284a5c419e46"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.864</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_31ec09ba_1713_42cb_83c7_b38bf6f9ced2"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/PhysicalObject"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_38b579de_4331_40e0_803d_09efa298e726"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#hasRefurbishmentCost"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_f2fc1ce9_cc3b_4eb5_a112_3c85d1b1374a"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6754443277310924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/MolecularEntity"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_21205421_5783_4d3e_81e5_10c5d894a88a"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Process"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessType"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_d43af210_f854_4432_a891_ce3022e3b558"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8453696943972835</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/nextProcess"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_499e24a5_5072_4c83_8625_fe3f96ae4a8d"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7965</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_995475ba_f196_4b19_a7c7_38d032c59270"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_995475ba_f196_4b19_a7c7_38d032c59270"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/designedForRecyclingAtSameQuality"/>
+      <entity2 rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6363636363636364</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/hasChemicalEntity"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_f68030be_94b8_4c61_a161_886468558054"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6099601880877743</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingActor"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_dc57d998_23db_4d8e_b2cd_f346b195b846"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.643078905630452</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasMarketValueForNewProduct"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_a0a2ded8_54e8_408d_a6b0_7fd1b4d7d16d"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6112087912087912</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#value"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#b6292331_94af_4f00_976b_ea55960c2f1c"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.78</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_17e27c22_37e1_468c_9dd7_95e137f73e7f"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/Quantity"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_f658c301_ce93_46cf_9639_4eace2c5d1d5"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_1880a2e6_0c9f_425a_9615_d4bdf121215f"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Constituent"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_ceaaf9f7_fd11_424b_8fda_9afa186af186"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasQuantityKind"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_5d73661e_e710_4844_ab9b_a85b7e68576a"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9227586206896552</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/numericalValue"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_faf79f53_749d_40b2_807c_d34244c192f4"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasUnit"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_67fc0a36_8dcb_4ffa_9a43_31074efa3296"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8769230769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/ChemicalSubstance"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#agent"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_cd24eb82_a11c_4a31_96ea_32f870c5580a"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasWaterProperty"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_e1097637_70d2_4895_973f_2396f04fa204"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9168000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasCondition"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#a32021dc_58d8_454b_915d_3951b413b8b7"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7126836991252423</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_4f226cf3_6d02_4d35_8566_a9e641bc6ff3"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Location"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_2be9b8b9_5ec8_46f3_89d6_3692c310553e"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_0aa934ee_1ad4_4345_8a7f_bc73ec67c7e5"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8841081081081081</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Matter"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_5b2222df_4da6_442f_8244_96e9e45887d1"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/hasComposition"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_0b1502e2_d12f_4ff3_83b1_eeedf9382954"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6931371705217859</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingSubject"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_c6a4a988_b3c1_4a38_aa28_762cba34e3f0"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7391304347826086</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_d67ee67e_4fac_4676_82c9_aec361dba698"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6370299377916019</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/provenance/statementAbout"/>
+      <entity2 rdf:resource="https://gpo.ontology.link/GPO_869d7b15_2918_4064_be6b_241d4f7dc79e"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8888888888888888</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_4207e895_8b83_4318_996a_72cfb32acd94"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_b1daa610_64c6_4935_94b8_a19db586a2f6"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7439038901601831</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Agent"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_2480b72b_db8d_460f_9a5f_c2912f979046"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#a8bd7094_6b40_47af_b1f4_a69d81a3afbd"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasMatter"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#5fa16188_d95b_4dd2_ac63_eae63fe01504"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7424476744186046</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/hasMaterialComponent"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_aef8af39_0a22_4be8_a523_4e47ca36e035"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7081051299133911</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasWidth"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_f22abf74_4538_4f50_ab85_09908cdda707"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6212470588235295</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#hadMember"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_6b7276a4_4b9d_440a_b577_0277539c0fc4"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8571428571428571</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participationIn"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#bb6febfa_5c6b_43c9_941a_4b6157b703be"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6287893961708395</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimension"/>
+      <entity2 rdf:resource="http://emmo.info/emmo#EMMO_bed1d005_b04e_4a90_94cf_02bc678a8569"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9044571428571428</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

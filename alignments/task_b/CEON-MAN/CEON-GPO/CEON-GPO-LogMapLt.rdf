@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</onto1>
+<onto2>https://gpo.ontology.link</onto2>
+<uri1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</uri1>
+<uri2>https://gpo.ontology.link</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+		<entity2 rdf:resource="https://gpo.ontology.link/GPO_1880a2e6_0c9f_425a_9615_d4bdf121215f"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+		<entity2 rdf:resource="https://gpo.ontology.link/GPO_995475ba_f196_4b19_a7c7_38d032c59270"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+		<entity2 rdf:resource="https://gpo.ontology.link/GPO_995475ba_f196_4b19_a7c7_38d032c59270"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#Location"/>
+		<entity2 rdf:resource="https://gpo.ontology.link/GPO_2be9b8b9_5ec8_46f3_89d6_3692c310553e"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+		<entity2 rdf:resource="https://gpo.ontology.link/GPO_703ec528_ea40_486e_9924_b911782b1a75"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#objectValue"/>
+		<entity2 rdf:resource="https://gpo.ontology.link/GPO_25f1a7da_895c_4d9b_b688_95b7deed7a80"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+		<entity2 rdf:resource="https://gpo.ontology.link/GPO_8c869b47_a258_43b9_9c75_4285a80a1dfb"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>
