@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Agent"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Agent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.9</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/MaterialComponent"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/MaterialComponent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.9</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Algorithm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ManufacturingProcess"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/ManufacturingProcess"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.9</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Organization"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Organization"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.9</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Capability"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Capability"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.9</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Person"/>
+      <entity2 rdf:resource="https://spec.industrialontologies.org/ontology/core/Core/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.9</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>
