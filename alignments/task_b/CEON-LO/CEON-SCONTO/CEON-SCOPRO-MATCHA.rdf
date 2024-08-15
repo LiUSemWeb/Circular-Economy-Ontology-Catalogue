@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/neededResourceRelation"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#isResourceRoleOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6557142857142857</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#isPartOfCT"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.864</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#hasDestinationFacility"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6179284649776453</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/ActorResourceRole"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Resource_Role"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6298845622535656</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProduct"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Material_Output"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.705672</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Material_RR"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7097987368421053</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Plan"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Plan"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/nextProcess"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#isSubProcessOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.66720823798627</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/ResourceRelation"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Temporal_Relationship"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6615675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/PrintingProcess"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Business_Process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7938810000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Information"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Information_RR"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7276262400000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Production"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7478916923076924</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/MaterialComponent"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Material_Input"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7938810000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#isFunctionalAreaOf"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6542419483576082</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Resource"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Resource"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#hasOURole"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6610429906542057</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimension"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#hasElement"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6499716369529984</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#isPartOfPE"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.864</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

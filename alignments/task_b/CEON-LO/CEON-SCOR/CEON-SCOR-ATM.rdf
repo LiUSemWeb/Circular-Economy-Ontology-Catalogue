@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Person"/>
+      <entity2 rdf:resource="http://schema.org/Person"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Usage"/>
+      <entity2 rdf:resource="http://purl.org/eis/vocab/scor#Practice"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Start"/>
+      <entity2 rdf:resource="http://purl.org/eis/vocab/scor#Enable"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Plan"/>
+      <entity2 rdf:resource="http://purl.org/eis/vocab/scor#Plan"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Situation"/>
+      <entity2 rdf:resource="http://purl.org/eis/vocab/scor#Make"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="http://purl.org/eis/vocab/scor#Process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Association"/>
+      <entity2 rdf:resource="http://schema.org/Corporation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Capability"/>
+      <entity2 rdf:resource="http://purl.org/eis/vocab/scor#Aptitude"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Influence"/>
+      <entity2 rdf:resource="http://purl.org/eis/vocab/scor#SEOPTransferProduct"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

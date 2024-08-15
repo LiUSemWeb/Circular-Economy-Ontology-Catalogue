@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessType"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasAccessTo"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7015078817733991</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Resource"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Resource"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ProductionProcess"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#ProductionCapability"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6615675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Capability"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Capability"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/MilliM"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Milling"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6265100769230769</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/resultingProduct"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasProduct"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.875</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/ActorType"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#MachineType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6615675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/siteName"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#name"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7546153846153846</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/nanoFinishing"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Finishing"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6136278260869565</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#fromStandardPart"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6829411764705882</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasFinishing"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasDrawing"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6499716369529984</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/hasComposition"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasPosition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8880000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasCondition"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasFunction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6972942331288343</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/MIN"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Mining"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.601128</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/millWashing"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Milling"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6602778947368422</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Product"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/Material"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Material"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasGeoLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9291428571428572</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#hasTransportCost"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasCostExpectation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.683228251864126</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/material/DescriptiveFormula"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#description"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6507692307692308</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#hasTestingCost"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasCost"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.888</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/millingAgent"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Milling"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6429456</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasAddress"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6499716369529984</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#value"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#hasMinValue"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/vocab/unit/MilliL"/>
+      <entity2 rdf:resource="http://www.manunetwork.com/manuservice/v1#Milling"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6265100769230769</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

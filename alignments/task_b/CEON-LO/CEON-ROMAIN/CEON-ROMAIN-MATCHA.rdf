@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#used"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/caused_by"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7200000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_input"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#hadMember"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002350"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8571428571428571</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#hadRole"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000087"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#specializationOf"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000418"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6939622699230102</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/quantity#objectValue"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/is_object_of"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8460000000000001</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#wasDerivedFrom"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0001000"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7968455821635012</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#atLocation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0001015"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/usesCathalyst"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/uses_language"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7352941176470589</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participantRole"/>
+      <entity2 rdf:resource="http://www.obofoundry.org/ro/ro.owl#has_participant"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9291428571428572</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/is_output_of"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_output"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000051"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/provenance/statementValue"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_date_value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8237628865979382</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasThickness"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_accessory"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6793695652173913</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#wasStartedBy"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/process_started_by"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7906944444444445</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/hedi/ontologies/2018/11/ROMAIN#OWLObjectProperty_ROMAIN00000025ROMAIN"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7777777777777778</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/is_input_of"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/nextProcess"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/is_part_of_process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7216935483870968</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isRealizationOf"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000054"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8584615384615385</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/occursInLocation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000066"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9130434782608696</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#value"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_URI_value"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8035714285714286</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPhysicalObject"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_object"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8929655172413793</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isAbout"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/is_about"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#hadMember"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0002351"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8571428571428571</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/hasLocation"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0001015"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingSubject"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/is_subject_of"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7391304347826086</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasInput"/>
+      <entity2 rdf:resource="http://www.ontologylibrary.mil/CommonCore/Upper/ExtendedRelationOntology#is_input_of"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://qudt.org/schema/qudt/hasUnit"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000039"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8064</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/provenance/Statement"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/hedi/ontologies/2018/11/ROMAIN#OWLClass_ROMAIN00000017ROMAIN"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Resource"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/Resource"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Location"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/ArtifactLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7305034337866506</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/hedi/ontologies/2018/11/ROMAIN#OWLObjectProperty_ROMAIN00000024ROMAIN"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7777777777777778</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/isAbout"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participationIn"/>
+      <entity2 rdf:resource="http://www.obofoundry.org/ro/ro.owl#participates_in"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8471065040041913</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasProductQuality"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000086"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9024</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessExecution"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/process_starts"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.655156010230179</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/participatingObject"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6075</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasRecyclingPotential"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_tangential_part"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6777898494143892</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/ProductQuality"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6397012373312145</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasOutput"/>
+      <entity2 rdf:resource="http://www.ontologylibrary.mil/CommonCore/Upper/ExtendedRelationOntology#has_output"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasProcessType"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/has_process_part"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8308306451612903</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Process"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9306</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasCondition"/>
+      <entity2 rdf:resource="http://www.ontologyrepository.com/CommonCoreOntologies/condition_described_by"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.8389285714285715</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7777777777777778</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/hasProperty"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/hedi/ontologies/2018/11/ROMAIN#OWLObjectProperty_ROMAIN00000023ROMAIN"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7777777777777778</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#qualifiedUsage"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000080"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.63</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/hasDimension"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/RO_0000091"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7020110701107012</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/ProductObject"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000030"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6157909700146046</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+      <entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000051"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Energy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Role"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Agent"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Manager"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/Condition"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Condition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Plan"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Goal"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Resource"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Resource"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ManufacturingProcess"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#ProductionTask"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#End"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Measure"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Process"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Function"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#PhysicalEquipment"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Activity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Role"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Component"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Transformation"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Transition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Actor"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Actor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Matter"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Matter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">1.0</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">1.0</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Start"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Alarm"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Capability"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Capacity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.5</measure>
+      <alignapilocalns:ScalableStringProcessingMatcher_confidence xmlns:alignapilocalns="http://melt.dws.uni-mannheim.de/configuration#">0.5</alignapilocalns:ScalableStringProcessingMatcher_confidence>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

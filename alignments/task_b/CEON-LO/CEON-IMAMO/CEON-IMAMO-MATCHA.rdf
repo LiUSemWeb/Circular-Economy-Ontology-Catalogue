@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+  <xml>yes</xml>
+  <level>0</level>
+  <type>??</type>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Resource"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Resource"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/ProductionProcess"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#ProductionEquipment"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6615675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/textile/TextileProperty"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Property"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6924765919426585</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/cvn/CircularStrategy"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#MaintenanceStrategy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6615675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/electronics/dateOfInstallation"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#construction_date"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6133827196714098</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Actor"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Actor"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/Role"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Role"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/actorODP/ActorType"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#MaintenanceType"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6615675</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Activity"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://www.w3.org/ns/prov#Location"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#EquipmentLocation"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.6248423228268633</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Matter"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Matter"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/hasProductComponent"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#hasComponent"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9091764705882353</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/construction/Condition"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Condition"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9815384966288135</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Energy"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Energy"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.99</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/product/Product"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#EquipmentModel"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.628155</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#Process"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.9801</measure>
+    </Cell>
+  </map>
+  <map>
+    <Cell>
+      <entity1 rdf:resource="http://w3id.org/CEON/ontology/process/RepairProcess"/>
+      <entity2 rdf:resource="http://www.semanticweb.org/karray/ontologies/2016/0/IMAMO#RepairAction"/>
+      <relation>=</relation>
+      <measure rdf:datatype="xsd:float">0.7938810000000001</measure>
+    </Cell>
+  </map>
+</Alignment>
+</rdf:RDF>

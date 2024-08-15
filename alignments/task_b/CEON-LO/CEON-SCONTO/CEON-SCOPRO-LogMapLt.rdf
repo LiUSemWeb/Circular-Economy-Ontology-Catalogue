@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<onto1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</onto1>
+<onto2>http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO</onto2>
+<uri1>http://www.semanticweb.org/ondrej/ontologies/2024/2/untitled-ontology-test3</uri1>
+<uri2>http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO</uri2>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#Plan"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Plan_Make"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#Plan"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Plan"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/Process"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Process"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/actor/UsingResource"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Resource"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/process/Process"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Process"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/Resource"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#Resource"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/nextProcess"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#isSubProcessOf"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#hadMember"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#isMemberOf"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://www.w3.org/ns/prov#hadMember"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#hasMember"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/processODP/hasPart"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#hasDuringAsPart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+<map>
+	<Cell>
+		<entity1 rdf:resource="http://w3id.org/CEON/ontology/resourceODP/hasPart"/>
+		<entity2 rdf:resource="http://www.semanticweb.org/indonto/ontologies/2014/0/SCOPRO#hasDuringAsPart"/>
+		<measure rdf:datatype="xsd:float">1.0</measure>
+		<relation>=</relation>
+	</Cell>
+</map>
+</Alignment>
+</rdf:RDF>
