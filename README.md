@@ -70,3 +70,5 @@ Additionally, we provide the initial and experimental ontology alignment results
 
 
 ## New Relevant ontologies identified after the survey published
+- [SEAS (Smart Energy Aware Systems)](https://w3id.org/seas/seas-1.1)
+- [OEO (Open Energy Ontology)](https://openenergyplatform.org/ontology/)
