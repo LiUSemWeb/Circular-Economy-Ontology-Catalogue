@@ -47,14 +47,7 @@ Additionally, we provide the initial and experimental ontology alignment results
 - [UNSPSC (Universal Standard Products and Services Classification)](http://industryportal.enit.fr/ontologies/UNSPSC)
 - [VERONTO (VERsioning ONTOlogy)](http://industryportal.enit.fr/ontologies/VERONTO)
 - [Z-BRE4K](http://industryportal.enit.fr/ontologies/Z-BRE4K)
-- [PMDco (Platform MaterialDigital Core Ontology)](https://w3id.org/pmd/co)
-- [MECH (Materials Mechanics Ontology)](https://matportal.org/ontologies/MECH)
-- [MESO (Material Science and Engineering Ontology)](https://matportal.org/ontologies/MSEO)
-- [MTO (Mechnical Testing Ontology)](https://matportal.org/ontologies/MTO)
-- [MAMBO (Materials And Molecules Basic Ontology)](https://matportal.org/ontologies/MAMBO)
-- [DEB (Devices, Experimental scaffolds and Biomaterials Ontology)](https://matportal.org/ontologies/DEB)
-- [MWO (The MatWerk ontology)](https://matportal.org/ontologies/MWO)
-- [DPPO (Digital Product Passport Ontology)](https://w3id.org/dppo/)
+
 
 ## Published Survey
 ```bib
@@ -70,5 +63,13 @@ Additionally, we provide the initial and experimental ontology alignment results
 
 
 ## New Relevant ontologies identified after the survey published
+- [PMDco (Platform MaterialDigital Core Ontology)](https://w3id.org/pmd/co)
+- [MECH (Materials Mechanics Ontology)](https://matportal.org/ontologies/MECH)
+- [MESO (Material Science and Engineering Ontology)](https://matportal.org/ontologies/MSEO)
+- [MTO (Mechnical Testing Ontology)](https://matportal.org/ontologies/MTO)
+- [MAMBO (Materials And Molecules Basic Ontology)](https://matportal.org/ontologies/MAMBO)
+- [DEB (Devices, Experimental scaffolds and Biomaterials Ontology)](https://matportal.org/ontologies/DEB)
+- [MWO (The MatWerk ontology)](https://matportal.org/ontologies/MWO)
+- [DPPO (Digital Product Passport Ontology)](https://w3id.org/dppo/)
 - [SEAS (Smart Energy Aware Systems)](https://w3id.org/seas/seas-1.1)
 - [OEO (Open Energy Ontology)](https://openenergyplatform.org/ontology/)
