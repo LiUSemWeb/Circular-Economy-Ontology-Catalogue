@@ -55,3 +55,14 @@ Additionally, we provide the initial and experimental ontology alignment results
 - [DEB (Devices, Experimental scaffolds and Biomaterials Ontology)](https://matportal.org/ontologies/DEB)
 - [MWO (The MatWerk ontology)](https://matportal.org/ontologies/MWO)
 - [DPPO (Digital Product Passport Ontology)](https://w3id.org/dppo/)
+
+## Published Survey
+```bib
+@inproceedings{Li2023-CE-survey,
+  title={{A Survey of General Ontologies for the Cross-Industry Domain of Circular Economy}},
+  author={Li, Huanyu and Abd Nikooie Pour, Mina and Li, Ying and Lindecrantz, Mikael and Blomqvist, Eva and Lambrix, Patrick },
+  booktitle={Companion Proc. of the ACM Web Conference 2023},
+  year={2023},
+  publisher={ACM},
+  doi={10.1145/3543873.3587613}
+}
