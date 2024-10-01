@@ -75,3 +75,4 @@ Additionally, we provide the initial and experimental ontology alignment results
 - [OEO (Open Energy Ontology)](https://openenergyplatform.org/ontology/)
 - [ThinkHome Ontology](https://www.auto.tuwien.ac.at/index.php/research-fields/ontology)
 - [Energy-Framework Ontology](https://github.com/RobertoMonaco/Energy-Framework/blob/main/src/resources/Energy_Framework.owl)
+- [Energy Flexibility Ontology](https://github.com/LBNL-ETA/EnergyFlexibilityOntology)
