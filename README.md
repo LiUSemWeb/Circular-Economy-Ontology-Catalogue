@@ -76,4 +76,4 @@ Additionally, we provide the initial and experimental ontology alignment results
 - [ThinkHome Ontology](https://www.auto.tuwien.ac.at/index.php/research-fields/ontology)
 - [Energy-Framework Ontology](https://github.com/RobertoMonaco/Energy-Framework/blob/main/src/resources/Energy_Framework.owl)
 - [Energy Flexibility Ontology](https://github.com/LBNL-ETA/EnergyFlexibilityOntology)
-- The midlevel energy ontology](https://github.com/stap-m/midlevel-energy-ontology)
+- [The midlevel energy ontology](https://github.com/stap-m/midlevel-energy-ontology)
