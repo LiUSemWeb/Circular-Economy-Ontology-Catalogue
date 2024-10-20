@@ -63,6 +63,7 @@ Additionally, we provide the initial and experimental ontology alignment results
 
 
 ## New Relevant ontologies identified after the survey published
+### Energy domain
 - [PMDco (Platform MaterialDigital Core Ontology)](https://w3id.org/pmd/co)
 - [MECH (Materials Mechanics Ontology)](https://matportal.org/ontologies/MECH)
 - [MESO (Material Science and Engineering Ontology)](https://matportal.org/ontologies/MSEO)
@@ -77,3 +78,8 @@ Additionally, we provide the initial and experimental ontology alignment results
 - [Energy-Framework Ontology](https://github.com/RobertoMonaco/Energy-Framework/blob/main/src/resources/Energy_Framework.owl)
 - [Energy Flexibility Ontology](https://github.com/LBNL-ETA/EnergyFlexibilityOntology)
 - [The midlevel energy ontology](https://github.com/stap-m/midlevel-energy-ontology)
+
+### Business model and value domain
+- [e3-value ontology](https://www.sciencedirect.com/science/article/abs/pii/B9780750661409500072)
+- [REA ontology]()
+- [Busminess Model Ontology(BMO)]()
