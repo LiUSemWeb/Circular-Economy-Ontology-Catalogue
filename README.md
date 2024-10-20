@@ -81,5 +81,5 @@ Additionally, we provide the initial and experimental ontology alignment results
 
 ### Business model and value domain
 - [e3-value ontology](https://www.sciencedirect.com/science/article/abs/pii/B9780750661409500072)
-- [REA ontology]()
+- [REA ontology (Resource-Event-Actor)]()
 - [Busminess Model Ontology(BMO)]()
