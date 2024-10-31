@@ -64,7 +64,9 @@ Additionally, we provide the initial and experimental ontology alignment results
 
 ## New Relevant ontologies identified after the survey published
 ### Energy domain
+<!--
 - [PMDco (Platform MaterialDigital Core Ontology)](https://w3id.org/pmd/co)
+-->
 - [MECH (Materials Mechanics Ontology)](https://matportal.org/ontologies/MECH)
 - [MESO (Material Science and Engineering Ontology)](https://matportal.org/ontologies/MSEO)
 - [MTO (Mechnical Testing Ontology)](https://matportal.org/ontologies/MTO)
