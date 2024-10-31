@@ -82,6 +82,7 @@ Additionally, we provide the initial and experimental ontology alignment results
 - [Energy-Framework Ontology](https://github.com/RobertoMonaco/Energy-Framework/blob/main/src/resources/Energy_Framework.owl)
 - [Energy Flexibility Ontology](https://github.com/LBNL-ETA/EnergyFlexibilityOntology)
 - [The midlevel energy ontology](https://github.com/stap-m/midlevel-energy-ontology)
+- Envo (Environment Ontology)
 
 ### Business model and value domain
 - [e3-value ontology](https://www.sciencedirect.com/science/article/abs/pii/B9780750661409500072)
