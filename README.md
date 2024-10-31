@@ -63,17 +63,19 @@ Additionally, we provide the initial and experimental ontology alignment results
 
 
 ## New Relevant ontologies identified after the survey published
-### Energy domain
-<!--
+### Material domain
 - [PMDco (Platform MaterialDigital Core Ontology)](https://w3id.org/pmd/co)
--->
 - [MECH (Materials Mechanics Ontology)](https://matportal.org/ontologies/MECH)
 - [MESO (Material Science and Engineering Ontology)](https://matportal.org/ontologies/MSEO)
 - [MTO (Mechnical Testing Ontology)](https://matportal.org/ontologies/MTO)
 - [MAMBO (Materials And Molecules Basic Ontology)](https://matportal.org/ontologies/MAMBO)
 - [DEB (Devices, Experimental scaffolds and Biomaterials Ontology)](https://matportal.org/ontologies/DEB)
 - [MWO (The MatWerk ontology)](https://matportal.org/ontologies/MWO)
+
+### Circular Economy domain
 - [DPPO (Digital Product Passport Ontology)](https://w3id.org/dppo/)
+
+### Energy domain
 - [SEAS (Smart Energy Aware Systems)](https://w3id.org/seas/seas-1.1)
 - [OEO (Open Energy Ontology)](https://openenergyplatform.org/ontology/)
 - [ThinkHome Ontology](https://www.auto.tuwien.ac.at/index.php/research-fields/ontology)
